@@ -5,4 +5,4 @@
 3. Created gitpod account
 
 ### Napkin Design
-![Cruddur Screenshot](_docs/assets/Napkin_design.png)
+![Napkin Design](_docs/assets/Napkin_design.png)
