@@ -5,4 +5,4 @@
 3. Created gitpod account
 
 ### Napkin Design
-![Napkin Design](_docs/assets/Napkin_design.png)
+![Napkin Design](Amr-Mohie-eldeen/aws-bootcamp-cruddur-2023/_docs/assets/Napkin_design.png)
