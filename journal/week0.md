@@ -3,3 +3,6 @@
 1. Created AWS Account
 2. Purchased a domain (amrmohie.cloud)
 3. Created gitpod account
+
+### Napkin Design
+![Cruddur Screenshot](_docs/assets/Napkin_design.png)
