@@ -6,3 +6,6 @@
 
 ### Napkin Design
 ![Napkin Design](_assets/Napkin_design.png)
+
+### Logical Design
+![Logical Design](_assets/Crudder_Logical_Diagram.jpg)
