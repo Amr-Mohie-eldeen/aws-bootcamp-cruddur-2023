@@ -9,7 +9,8 @@ import MessageGroupsPage from './pages/MessageGroupsPage';
 import MessageGroupPage from './pages/MessageGroupPage';
 import ConfirmationPage from './pages/ConfirmationPage';
 import React from 'react';
-import process from 'process';
+import NotificationsFeedPage from './pages/NotificationsFeedPage';
+
 import {
   createBrowserRouter,
   RouterProvider
@@ -47,6 +48,10 @@ const router = createBrowserRouter([
   {
     path: "/forgot",
     element: <RecoverPage />
+  },
+  {
+    path: "/notifications",
+    element: <NotificationsFeedPage />
   }
 ]);
 
