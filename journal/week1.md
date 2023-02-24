@@ -7,5 +7,8 @@
 - Tried to configure external network on my local deployment but learnt that it is not possible on MACOS.
 - Added Backend endpoint for Notifications
 - Created the corresponding frontend page for notifications
+![Week1_Notification_page](_assets/Week1_Notification_page.png)
 - created local dynamodb container and tested it
+![Week1_dynamodb](_assets/Week1_dynamodb.png)
 - Created postgres container and installed psql into gitpod environment and tested connectivtiy.
+![Week1_psql](_assets/Week1_psql.png)
