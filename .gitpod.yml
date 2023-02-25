@@ -9,8 +9,12 @@ tasks:
       unzip awscliv2.zip
       sudo ./aws/install
       complete -C '/usr/local/bin/aws_completer' aws
-      sudo apt-get install postgresql-client
+      sudo apt-get -y install postgresql-client
       cd $THEIA_WORKSPACE_ROOT
+      cd frontend-react-js
+      npm i
+      cd $THEIA_WORKSPACE_ROOT
+
 
 vscode:
   extensions:
