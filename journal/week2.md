@@ -7,7 +7,7 @@ Learnt the concept of tracing for webapps and tried diffrent solutions to achiev
 - Configured honeycomb with open telementary to generate traces for the backend requests.
 
 <img src='_assets/Honeycombio.png' width='1000'>
-------
+---
 
 ## AWS X-ray
 Configured tracing using AWS X-ray and created a segment for the notifications_activities endpoint
