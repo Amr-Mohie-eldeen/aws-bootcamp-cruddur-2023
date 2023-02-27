@@ -37,8 +37,11 @@ trace.set_tracer_provider(provider)
 tracer = trace.get_tracer(__name__)
 
 app = Flask(__name__)
+# honeycomp intiallization
 FlaskInstrumentor().instrument_app(app)
 RequestsInstrumentor().instrument()
+
+# aws-xray intiallization
 xray_url = os.getenv("AWS_XRAY_URL")
 xray_recorder.configure(service='Cruddur', dynamic_naming=xray_url)
 XRayMiddleware(app, xray_recorder)
