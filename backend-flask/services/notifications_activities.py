@@ -1,8 +1,14 @@
 from datetime import datetime, timedelta, timezone
-
+from aws_xray_sdk.core import xray_recorder
 
 class NotificationsActivities:
     def run():
+        segment = xray_recorder.begin_segment('notifications_activities')
+
+        model = {
+        'errors': None,
+        'data': None
+    }
         now = datetime.now(timezone.utc).astimezone()
         results = [
             {
