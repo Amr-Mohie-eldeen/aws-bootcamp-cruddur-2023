@@ -14,7 +14,7 @@ Configured tracing using AWS X-ray and created a segment for the notifications_a
 ### Service Maps
 
 
-<img src='_assets/Week2_Service_map.png' width='250'>
+<img src='_assets/Week2_Service_map.png' width='500'>
 
 ### Traces
 
