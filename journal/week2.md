@@ -9,3 +9,8 @@ Learnt the concept of tracing for webapps and tried diffrent solutions to achiev
 ---
 ## AWS X-ray
 Configured tracing using AWS X-ray and created a segment for the notifications_activities endpoint
+### Service Maps
+![Week2_honeycomb](_assets/Week2_Service_map.png)
+
+### Traces
+![Week2_honeycomb](_assets/Week2_xray_traces.png)
