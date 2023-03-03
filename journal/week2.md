@@ -20,3 +20,9 @@ Configured tracing using AWS X-ray and created a segment for the notifications_a
 #### Traces
 
 <img src='_assets/Week2_xray_traces.png' width='700'>
+
+---
+## Rollbar
+Configured Rollbar and tested conectivity using the test endpoint
+<img src='_assets/Week2_rollbar.png' width='700'>
+
