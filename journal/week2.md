@@ -29,5 +29,9 @@ Configured Rollbar and tested conectivity using the test endpoint
 
 ## Cloudwatch logs
 Configure logger to stream logs to CW.
+
 <img src='_assets/Week2_cwlogs.png' width='700'>
 
+```
+I have disabled Xray & Cloudwatch logs for spend control
+```
