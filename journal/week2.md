@@ -25,4 +25,9 @@ Configured tracing using AWS X-ray and created a segment for the notifications_a
 ## Rollbar
 Configured Rollbar and tested conectivity using the test endpoint
 <img src='_assets/Week2_rollbar.png' width='700'>
+---
+
+## Cloudwatch logs
+Configure logger to stream logs to CW.
+<img src='_assets/Week2_cwlogs.png' width='700'>
 
