@@ -1,12 +1,15 @@
 import uuid
 from datetime import datetime, timedelta, timezone
+import logging
+logging.basicConfig(level=logging.DEBUG)
 class CreateActivity:
-  def run(message, user_handle, ttl):
+  def run(message, user_handle, ttl,display_name):
     model = {
       'errors': None,
       'data': None
     }
-
+    logging.critical(f"user handle: {user_handle}")
+    logging.critical(f"user display: {display_name}")
     now = datetime.now(timezone.utc).astimezone()
 
     if (ttl == '30-days'):
@@ -28,6 +31,7 @@ class CreateActivity:
 
     if user_handle == None or len(user_handle) < 1:
       model['errors'] = ['user_handle_blank']
+      logging.critical(model['errors'])
 
     if message == None or len(message) < 1:
       model['errors'] = ['message_blank'] 
@@ -42,7 +46,7 @@ class CreateActivity:
     else:
       model['data'] = {
         'uuid': uuid.uuid4(),
-        'display_name': 'Andrew Brown',
+        'display_name': display_name,
         'handle':  user_handle,
         'message': message,
         'created_at': now.isoformat(),
