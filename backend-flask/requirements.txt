@@ -9,3 +9,5 @@ aws-xray-sdk
 blinker
 rollbar
 watchtower
+requests
+Flask-AWSCognito

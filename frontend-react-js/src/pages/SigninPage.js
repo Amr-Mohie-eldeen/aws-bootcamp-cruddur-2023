@@ -21,7 +21,9 @@ const onsubmit = async (event) => {
         localStorage.setItem("access_token", user.signInUserSession.accessToken.jwtToken)
         window.location.href = "/"
       })
-      .catch(err => { console.log('Error!', err) });
+      // .catch(err => { console.log('Error!', err) });
+      .catch(err => {setErrors(err.message)});
+
   } catch (error) {
     if (error.code == 'UserNotConfirmedException') {
       window.location.href = "/confirm"
