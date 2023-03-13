@@ -1,6 +1,6 @@
 #! /usr/bin/bash
 
-schema_path="$(realpath .)/backend-flask/db/schema.sql"
+schema_path="/workspace/aws-bootcamp-cruddur-2023/backend-flask/db/schema.sql"
 
 echo $schema_path
 
