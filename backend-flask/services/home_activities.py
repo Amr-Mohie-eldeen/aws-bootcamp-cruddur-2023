@@ -1,4 +1,5 @@
 from datetime import datetime, timedelta, timezone
+from lib.db import pool
 class HomeActivities:
   def run(cognito_user_id=None):
     now = datetime.now(timezone.utc).astimezone()
