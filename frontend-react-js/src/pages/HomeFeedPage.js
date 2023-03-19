@@ -75,7 +75,8 @@ const checkAuth = async () => {
         <ActivityForm  
           popped={popped}
           setPopped={setPopped} 
-          setActivities={setActivities} 
+          setActivities={setActivities}
+          user={user}
         />
         <ReplyForm 
           activity={replyActivity} 

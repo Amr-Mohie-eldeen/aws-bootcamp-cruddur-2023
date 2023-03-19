@@ -111,7 +111,6 @@ cors = CORS(
   methods="OPTIONS,GET,HEAD,POST"
 )
 
-
 @app.route("/api/message_groups", methods=["GET"])
 def data_message_groups():
     user_handle = "andrewbrown"
@@ -197,9 +196,11 @@ def data_search():
 @app.route("/api/activities", methods=["POST", "OPTIONS"])
 @cross_origin()
 def data_activities():
-    user_handle = "andrewbrown"
+    user_handle = request.json["user_handle"]
+
     message = request.json["message"]
     ttl = request.json["ttl"]
+    print(f"{user_handle}\n")
     model = CreateActivity.run(message, user_handle, ttl)
     if model["errors"] is not None:
         return model["errors"], 422
