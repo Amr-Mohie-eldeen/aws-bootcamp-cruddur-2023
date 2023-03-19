@@ -7,7 +7,7 @@ export default function ActivityForm(props) {
   const [count, setCount] = React.useState(0);
   const [message, setMessage] = React.useState('');
   const [ttl, setTtl] = React.useState('7-days');
-
+  const user = props.user;
   const classes = []
   classes.push('count')
   if (240-count < 0){
@@ -18,7 +18,11 @@ export default function ActivityForm(props) {
     event.preventDefault();
     try {
       const backend_url = `${process.env.REACT_APP_BACKEND_URL}/api/activities`
-      console.log('onsubmit payload', message)
+
+        console.log("user", user)
+      
+      console.log('onsubmit payload ssss', message)
+      
       const res = await fetch(backend_url, {
         method: "POST",
         headers: {
@@ -27,7 +31,10 @@ export default function ActivityForm(props) {
         },
         body: JSON.stringify({
           message: message,
-          ttl: ttl
+          user_handle: user.handle,
+          ttl: ttl,
+          display_name: user.display_name
+          
         }),
       });
       let data = await res.json();
