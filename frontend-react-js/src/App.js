@@ -8,9 +8,11 @@ import RecoverPage from './pages/RecoverPage';
 import MessageGroupsPage from './pages/MessageGroupsPage';
 import MessageGroupPage from './pages/MessageGroupPage';
 import ConfirmationPage from './pages/ConfirmationPage';
+import MessageGroupNewPage from './pages/MessageGroupNewPage';
 import React from 'react';
 import NotificationsFeedPage from './pages/NotificationsFeedPage';
 import { Amplify } from 'aws-amplify';
+
 import {
   createBrowserRouter,
   RouterProvider
@@ -46,7 +48,11 @@ const router = createBrowserRouter([
     element: <MessageGroupsPage />
   },
   {
-    path: "/messages/@:handle",
+    path: "/messages/new/:handle",
+    element: <MessageGroupNewPage />
+  },
+  {
+    path: "/messages/:message_group_uuid",
     element: <MessageGroupPage />
   },
   {

@@ -270,7 +270,7 @@ def data_activities_reply(activity_uuid):
 def data_notifications():
     data = NotificationsActivities.run()
     return data, 200
-    
+
 @app.route("/api/users/@<string:handle>/short", methods=['GET'])
 def data_users_short(handle):
   data = UsersShort.run(handle)
