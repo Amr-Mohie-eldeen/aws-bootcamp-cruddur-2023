@@ -1,4 +1,3 @@
-
 #! /usr/bin/bash
 -e
 CYAN='\033[1;36m'
@@ -10,7 +9,8 @@ ABS_PATH=$(readlink -f "$0")
 SCRIPT_DIR=`dirname $SCRIPT_PATH`
 bin_path=$(dirname $(dirname "$ABS_PATH"))
 
-source "$bin_path/bin/db/drop"
-source "$bin_path/bin/db/create"
-source "$bin_path/bin/db/schema-load"
-source "$bin_path/bin/db/seed"
+source "$bin_path/db/drop"
+source "$bin_path/db/create"
+source "$bin_path/db/schema-load"
+source "$bin_path/db/seed"
+python "$bin_path/db/update_cognito_user_ids"
