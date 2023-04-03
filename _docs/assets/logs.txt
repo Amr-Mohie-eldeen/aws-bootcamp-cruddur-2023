@@ -1,0 +1,632 @@
+ive-action footage. It never felt like the effects were taking over or overshadowing the characters or the story.', 'created_at': '2023-04-03T01:04:15.907933+00:00'}, {'uuid': 'b30fb899-a32f-4889-8559-02276fb0da20', 'display_name': 'Amr', 'handle': 'amrmohie', 'message': 'Absolutely. The show had a great balance of practical effects and CGI, which helped to ground the sci-fi elements in a more tangible and realistic world.', 'created_at': '2023-04-03T01:05:15.907933+00:00'}, {'uuid': '953d4943-c843-45bd-992b-b9249053168d', 'display_name': 'orcy', 'handle': 'orcy', 'message': "And it's also worth noting the way the show's use of visual effects evolved over the course of the series. The effects in the first season were a bit rough around the edges, but by the end of the series, they had really refined and perfected the look and feel of the show.", 'created_at': '2023-04-03T01:06:15.907933+00:00'}, {'uuid': 'a76a846e-178c-460f-be49-14e6855aa29e', 'display_name': 'Amr', 'handle': 'amrmohie', 'message': "Yes, I agree. And it's impressive how they were able to accomplish all of this on a TV budget. The fact that the show was able to create such a rich and immersive sci-fi universe with limited resources is a testament to the talent and creativity of the production team.", 'created_at': '2023-04-03T01:07:15.907933+00:00'}, {'uuid': 'eb39cd04-6de2-42d4-a0c0-6665026823b3', 'display_name': 'orcy', 'handle': 'orcy', 'message': "Definitely. And it's one of the reasons why the show has aged so well. Even today, the visual effects still hold up and look impressive, which is a rarity for a show that's almost 30 years old.", 'created_at': '2023-04-03T01:08:15.907933+00:00'}, {'uuid': '32419808-46f4-436d-8899-e846dc45de3a', 'display_name': 'Amr', 'handle': 'amrmohie', 'message': "Agreed. And it's also worth noting the way the show's use of visual effects influenced other sci-fi shows that came after it. Babylon 5 really set the bar for what was possible in terms of sci-fi visuals on TV.", 'created_at': '2023-04-03T01:09:15.907933+00:00'}, {'uuid': 'c6831004-6dae-49b3-96c3-b42cf91425a7', 'display_name': 'orcy', 'handle': 'orcy', 'message': "Yes, it definitely had a big impact on the genre as a whole. And it's a great example of how innovative and groundbreaking sci-fi can be when it's done right.", 'created_at': '2023-04-03T01:10:15.907933+00:00'}, {'uuid': '667c0373-dfbb-42f6-bfa9-eaa97dfc6c5c', 'display_name': 'Amr', 'handle': 'amrmohie', 'message': 'Another character I wanted to discuss is Zathras. What did you think of his character?', 'created_at': '2023-04-03T01:11:15.907933+00:00'}, {'uuid': '17761f78-1102-4067-8cd4-846ff49ad4b3', 'display_name': 'orcy', 'handle': 'orcy', 'message': 'Zathras was a really unique and memorable character. He was quirky and eccentric, but also had a lot of heart and sincerity.', 'created_at': '2023-04-03T01:12:15.907933+00:00'}, {'uuid': '5714d354-f72e-45f2-8141-1030f099df94', 'display_name': 'Amr', 'handle': 'amrmohie', 'message': 'Yes, I thought he was a great addition to the show. He added some much-needed comic relief, but also had some important moments of character development.', 'created_at': '2023-04-03T01:13:15.907933+00:00'}, {'uuid': '529c9133-fe1b-4ce0-9881-888f24f5392f', 'display_name': 'orcy', 'handle': 'orcy', 'message': "And I appreciated the way the show used him as a sort of plot device, with his knowledge of time and space being instrumental in the resolution of some of the show's major storylines.", 'created_at': '2023-04-03T01:14:15.907933+00:00'}, {'uuid': '6645dc22-6369-4aa1-97eb-bec735c9cf55', 'display_name': 'Amr', 'handle': 'amrmohie', 'message': 'Definitely. It was a great way to integrate a seemingly minor character into the larger narrative. And it was also interesting to see the different versions of Zathras from different points in time.', 'created_at': '2023-04-03T01:15:15.907933+00:00'}, {'uuid': 'cc7c7b24-b2c3-41ca-8cac-19f5bb3b49c3', 'display_name': 'orcy', 'handle': 'orcy', 'message': 'Yeah, that was a clever storytelling device that really added to the sci-fi elements of the show. And it was also a great showcase for actor Tim Choate, who played the character with so much charm and energy.', 'created_at': '2023-04-03T01:16:15.907933+00:00'}, {'uuid': 'ddcabe3a-c5d5-4269-a7f5-620856f47074', 'display_name': 'Amr', 'handle': 'amrmohie', 'message': "I also thought that Zathras was a great example of the show's commitment to creating memorable and unique characters. Even characters that only appeared in a few episodes, like Zathras or Bester, were given distinct personalities and backstories.", 'created_at': '2023-04-03T01:17:15.907933+00:00'}, {'uuid': '274e8b1b-9233-4694-b3b4-a4eb8c7d52e3', 'display_name': 'orcy', 'handle': 'orcy', 'message': "Yes, that's a good point. Babylon 5 was really great at creating a diverse and interesting cast of characters, with each one feeling like a fully-realized and distinct individual.", 'created_at': '2023-04-03T01:18:15.907933+00:00'}, {'uuid': 'de9a31c9-0ff1-4c5c-84e7-166310919de4', 'display_name': 'Amr', 'handle': 'amrmohie', 'message': "And Zathras was just one example of that. He was a small but important part of the show's legacy, and he's still remembered fondly by fans today.", 'created_at': '2023-04-03T01:19:15.907933+00:00'}, {'uuid': '73c5a34a-d554-44ee-acc0-4a27d8b52cd2', 'display_name': 'orcy', 'handle': 'orcy', 'message': "Definitely. I think his character is a great example of the show's ability to balance humor and heart, and to create memorable and beloved characters that fans will cherish for years to come.", 'created_at': '2023-04-03T01:20:15.907933+00:00'}]
+
+
+ Load SQL Template: /backend-flask/db/sql/users/create_message_users.sql 
+ SQL STATEMENT-[array]------
+SELECT 
+  users.uuid,
+  users.display_name,
+  users.handle,
+  CASE users.cognito_user_id = %(cognito_user_id)s
+  WHEN TRUE THEN
+    'sender'
+  WHEN FALSE THEN
+    'recv'
+  ELSE
+    'other'
+  END as kind
+FROM public.users
+WHERE
+  users.cognito_user_id = %(cognito_user_id)s
+  OR 
+  users.handle = %(user_receiver_handle)s
+ {'cognito_user_id': '8109954e-1c23-45a0-a385-393277601495', 'user_receiver_handle': ''}
+USERS =-=-=-=-==
+[{'uuid': '0d924455-6ec6-4cdd-90f2-aa3a1e49751d', 'display_name': 'Amr', 'handle': 'amrmohie', 'kind': 'sender'}]
+USERS=[my-user]==
+{'uuid': '0d924455-6ec6-4cdd-90f2-aa3a1e49751d', 'display_name': 'Amr', 'handle': 'amrmohie', 'kind': 'sender'}
+USERS=[other-user]==
+None
+{'ResponseMetadata': {'RequestId': '22e0c518-3b5d-492b-bbf5-88caa3f8460a', 'HTTPStatusCode': 200, 'HTTPHeaders': {'date': 'Mon, 03 Apr 2023 00:03:41 GMT', 'x-amzn-requestid': '22e0c518-3b5d-492b-bbf5-88caa3f8460a', 'content-type': 'application/x-amz-json-1.0', 'x-amz-crc32': '2745614147', 'content-length': '2', 'server': 'Jetty(9.4.48.v20220622)'}, 'RetryAttempts': 0}}
+
+
+ Load SQL Template: /backend-flask/db/sql/users/uuid_from_cognito_user_id.sql 
+
+
+192.168.249.73 - - [03/Apr/2023 00:03:41] "GET /api/message_groups HTTP/1.1" 200 -
+192.168.249.73 - - [03/Apr/2023 00:03:41] "GET /api/messages/5ae290ed-55d1-47a0-bc6d-fe2bc2700399 HTTP/1.1" 200 -
+192.168.249.73 - - [03/Apr/2023 00:05:14] "OPTIONS /api/activities/home HTTP/1.1" 200 -
+authenicated
+{'sub': '8109954e-1c23-45a0-a385-393277601495', 'iss': 'https://cognito-idp.us-east-1.amazonaws.com/us-east-1_p2LQ52ArJ', 'client_id': '245m80kue8q0rilt4nr4gtthdb', 'origin_jti': '9ed69cef-8d75-4ba4-9b0f-6d54b10ab5e6', 'event_id': 'eb0d69af-5ed6-44db-a9b5-26fac62e877c', 'token_use': 'access', 'scope': 'aws.cognito.signin.user.admin', 'auth_time': 1680478654, 'exp': 1680482254, 'iat': 1680478654, 'jti': 'c04ccf69-e487-4369-9899-615f7e5590cc', 'username': '8109954e-1c23-45a0-a385-393277601495'}
+8109954e-1c23-45a0-a385-393277601495
+ Load SQL Template: /backend-flask/db/sql/users/uuid_from_cognito_user_id.sql 
+ SQL STATEMENT-[value]------
+SELECT
+  users.uuid
+FROM public.users
+WHERE 
+  users.cognito_user_id = %(cognito_user_id)s
+LIMIT 1 {'cognito_user_id': '8109954e-1c23-45a0-a385-393277601495'}
+ SQL STATEMENT-[value]------
+SELECT
+  users.uuid
+FROM public.users
+WHERE 
+  users.cognito_user_id = %(cognito_user_id)s
+LIMIT 1 {'cognito_user_id': '8109954e-1c23-45a0-a385-393277601495'}
+UUID: 0d924455-6ec6-4cdd-90f2-aa3a1e49751d
+UUID: 0d924455-6ec6-4cdd-90f2-aa3a1e49751d
+query-params: {'TableName': 'cruddur-messages', 'KeyConditionExpression': 'pk = :pk AND begins_with(sk,:year)', 'ScanIndexForward': False, 'Limit': 20, 'ExpressionAttributeValues': {':year': {'S': '2023'}, ':pk': {'S': 'GRP#0d924455-6ec6-4cdd-90f2-aa3a1e49751d'}}}
+{'TableName': 'cruddur-messages', 'KeyConditionExpression': 'pk = :pk AND begins_with(sk,:year)', 'ScanIndexForward': False, 'Limit': 20, 'ExpressionAttributeValues': {':year': {'S': '2023'}, ':pk': {'S': 'GRP#0d924455-6ec6-4cdd-90f2-aa3a1e49751d'}}}
+list_message_groups: [{'uuid': '5ae290ed-55d1-47a0-bc6d-fe2bc2700399', 'display_name': 'orcy', 'handle': 'orcy', 'message': 'this is a filler message', 'created_at': '2023-04-02T23:37:15.907933+00:00'}]
+list_messages
+[{'uuid': '3c9c7bcd-5666-4b4a-9a80-976a1bbcf263', 'display_name': 'Amr', 'handle': 'amrmohie', 'message': "One thing that really stands out about Babylon 5 is the quality of the special effects. What did you think about the show's use of CGI and other visual effects?", 'created_at': '2023-04-03T01:01:15.907933+00:00'}, {'uuid': '2e506dea-4e01-4e6a-bdd3-83db1ec1c33c', 'display_name': 'orcy', 'handle': 'orcy', 'message': 'I thought the special effects in Babylon 5 were really impressive, especially for a show that aired in the 90s. The use of CGI to create the spaceships and other sci-fi elements was really innovative for its time.', 'created_at': '2023-04-03T01:02:15.907933+00:00'}, {'uuid': '04525d5e-892c-459e-ae9f-5958dcfa4095', 'display_name': 'Amr', 'handle': 'amrmohie', 'message': 'Yes, I was really blown away by the level of detail and realism in the effects. The ships looked so sleek and futuristic, and the space battles were really intense and exciting.', 'created_at': '2023-04-03T01:03:15.907933+00:00'}, {'uuid': 'd2440e41-214f-4e1c-a4bf-9eabf5637c50', 'display_name': 'orcy', 'handle': 'orcy', 'message': 'And I also appreciated the way the show integrated the visual effects with the live-action footage. It never felt like the effects were taking over or overshadowing the characters or the story.', 'created_at': '2023-04-03T01:04:15.907933+00:00'}, {'uuid': 'b30fb899-a32f-4889-8559-02276fb0da20', 'display_name': 'Amr', 'handle': 'amrmohie', 'message': 'Absolutely. The show had a great balance of practical effects and CGI, which helped to ground the sci-fi elements in a more tangible and realistic world.', 'created_at': '2023-04-03T01:05:15.907933+00:00'}, {'uuid': '953d4943-c843-45bd-992b-b9249053168d', 'display_name': 'orcy', 'handle': 'orcy', 'message': "And it's also worth noting the way the show's use of visual effects evolved over the course of the series. The effects in the first season were a bit rough around the edges, but by the end of the series, they had really refined and perfected the look and feel of the show.", 'created_at': '2023-04-03T01:06:15.907933+00:00'}, {'uuid': 'a76a846e-178c-460f-be49-14e6855aa29e', 'display_name': 'Amr', 'handle': 'amrmohie', 'message': "Yes, I agree. And it's impressive how they were able to accomplish all of this on a TV budget. The fact that the show was able to create such a rich and immersive sci-fi universe with limited resources is a testament to the talent and creativity of the production team.", 'created_at': '2023-04-03T01:07:15.907933+00:00'}, {'uuid': 'eb39cd04-6de2-42d4-a0c0-6665026823b3', 'display_name': 'orcy', 'handle': 'orcy', 'message': "Definitely. And it's one of the reasons why the show has aged so well. Even today, the visual effects still hold up and look impressive, which is a rarity for a show that's almost 30 years old.", 'created_at': '2023-04-03T01:08:15.907933+00:00'}, {'uuid': '32419808-46f4-436d-8899-e846dc45de3a', 'display_name': 'Amr', 'handle': 'amrmohie', 'message': "Agreed. And it's also worth noting the way the show's use of visual effects influenced other sci-fi shows that came after it. Babylon 5 really set the bar for what was possible in terms of sci-fi visuals on TV.", 'created_at': '2023-04-03T01:09:15.907933+00:00'}, {'uuid': 'c6831004-6dae-49b3-96c3-b42cf91425a7', 'display_name': 'orcy', 'handle': 'orcy', 'message': "Yes, it definitely had a big impact on the genre as a whole. And it's a great example of how innovative and groundbreaking sci-fi can be when it's done right.", 'created_at': '2023-04-03T01:10:15.907933+00:00'}, {'uuid': '667c0373-dfbb-42f6-bfa9-eaa97dfc6c5c', 'display_name': 'Amr', 'handle': 'amrmohie', 'message': 'Another character I wanted to discuss is Zathras. What did you think of his character?', 'created_at': '2023-04-03T01:11:15.907933+00:00'}, {'uuid': '17761f78-1102-4067-8cd4-846ff49ad4b3', 'display_name': 'orcy', 'handle': 'orcy', 'message': 'Zathras was a really unique and memorable character. He was quirky and eccentric, but also had a lot of heart and sincerity.', 'created_at': '2023-04-03T01:12:15.907933+00:00'}, {'uuid': '5714d354-f72e-45f2-8141-1030f099df94', 'display_name': 'Amr', 'handle': 'amrmohie', 'message': 'Yes, I thought he was a great addition to the show. He added some much-needed comic relief, but also had some important moments of character development.', 'created_at': '2023-04-03T01:13:15.907933+00:00'}, {'uuid': '529c9133-fe1b-4ce0-9881-888f24f5392f', 'display_name': 'orcy', 'handle': 'orcy', 'message': "And I appreciated the way the show used him as a sort of plot device, with his knowledge of time and space being instrumental in the resolution of some of the show's major storylines.", 'created_at': '2023-04-03T01:14:15.907933+00:00'}, {'uuid': '6645dc22-6369-4aa1-97eb-bec735c9cf55', 'display_name': 'Amr', 'handle': 'amrmohie', 'message': 'Definitely. It was a great way to integrate a seemingly minor character into the larger narrative. And it was also interesting to see the different versions of Zathras from different points in time.', 'created_at': '2023-04-03T01:15:15.907933+00:00'}, {'uuid': 'cc7c7b24-b2c3-41ca-8cac-19f5bb3b49c3', 'display_name': 'orcy', 'handle': 'orcy', 'message': 'Yeah, that was a clever storytelling device that really added to the sci-fi elements of the show. And it was also a great showcase for actor Tim Choate, who played the character with so much charm and energy.', 'created_at': '2023-04-03T01:16:15.907933+00:00'}, {'uuid': 'ddcabe3a-c5d5-4269-a7f5-620856f47074', 'display_name': 'Amr', 'handle': 'amrmohie', 'message': "I also thought that Zathras was a great example of the show's commitment to creating memorable and unique characters. Even characters that only appeared in a few episodes, like Zathras or Bester, were given distinct personalities and backstories.", 'created_at': '2023-04-03T01:17:15.907933+00:00'}, {'uuid': '274e8b1b-9233-4694-b3b4-a4eb8c7d52e3', 'display_name': 'orcy', 'handle': 'orcy', 'message': "Yes, that's a good point. Babylon 5 was really great at creating a diverse and interesting cast of characters, with each one feeling like a fully-realized and distinct individual.", 'created_at': '2023-04-03T01:18:15.907933+00:00'}, {'uuid': 'de9a31c9-0ff1-4c5c-84e7-166310919de4', 'display_name': 'Amr', 'handle': 'amrmohie', 'message': "And Zathras was just one example of that. He was a small but important part of the show's legacy, and he's still remembered fondly by fans today.", 'created_at': '2023-04-03T01:19:15.907933+00:00'}, {'uuid': '73c5a34a-d554-44ee-acc0-4a27d8b52cd2', 'display_name': 'orcy', 'handle': 'orcy', 'message': "Definitely. I think his character is a great example of the show's ability to balance humor and heart, and to create memorable and beloved characters that fans will cherish for years to come.", 'created_at': '2023-04-03T01:20:15.907933+00:00'}]
+
+
+192.168.249.73 - - [03/Apr/2023 00:05:14] "GET /api/activities/home HTTP/1.1" 200 -
+192.168.249.73 - - [03/Apr/2023 00:05:19] "OPTIONS /api/message_groups HTTP/1.1" 200 -
+authenicated
+{'sub': '8109954e-1c23-45a0-a385-393277601495', 'iss': 'https://cognito-idp.us-east-1.amazonaws.com/us-east-1_p2LQ52ArJ', 'client_id': '245m80kue8q0rilt4nr4gtthdb', 'origin_jti': '9ed69cef-8d75-4ba4-9b0f-6d54b10ab5e6', 'event_id': 'eb0d69af-5ed6-44db-a9b5-26fac62e877c', 'token_use': 'access', 'scope': 'aws.cognito.signin.user.admin', 'auth_time': 1680478654, 'exp': 1680482254, 'iat': 1680478654, 'jti': 'c04ccf69-e487-4369-9899-615f7e5590cc', 'username': '8109954e-1c23-45a0-a385-393277601495'}
+192.168.249.73 - - [03/Apr/2023 00:05:19] "GET /api/message_groups HTTP/1.1" 200 -
+authenicated
+{'sub': '8109954e-1c23-45a0-a385-393277601495', 'iss': 'https://cognito-idp.us-east-1.amazonaws.com/us-east-1_p2LQ52ArJ', 'client_id': '245m80kue8q0rilt4nr4gtthdb', 'origin_jti': '9ed69cef-8d75-4ba4-9b0f-6d54b10ab5e6', 'event_id': 'eb0d69af-5ed6-44db-a9b5-26fac62e877c', 'token_use': 'access', 'scope': 'aws.cognito.signin.user.admin', 'auth_time': 1680478654, 'exp': 1680482254, 'iat': 1680478654, 'jti': 'c04ccf69-e487-4369-9899-615f7e5590cc', 'username': '8109954e-1c23-45a0-a385-393277601495'}
+192.168.249.73 - - [03/Apr/2023 00:05:21] "GET /api/message_groups HTTP/1.1" 200 -
+192.168.249.73 - - [03/Apr/2023 00:05:21] "OPTIONS /api/messages/5ae290ed-55d1-47a0-bc6d-fe2bc2700399 HTTP/1.1" 200 -
+authenicated
+{'sub': '8109954e-1c23-45a0-a385-393277601495', 'iss': 'https://cognito-idp.us-east-1.amazonaws.com/us-east-1_p2LQ52ArJ', 'client_id': '245m80kue8q0rilt4nr4gtthdb', 'origin_jti': '9ed69cef-8d75-4ba4-9b0f-6d54b10ab5e6', 'event_id': 'eb0d69af-5ed6-44db-a9b5-26fac62e877c', 'token_use': 'access', 'scope': 'aws.cognito.signin.user.admin', 'auth_time': 1680478654, 'exp': 1680482254, 'iat': 1680478654, 'jti': 'c04ccf69-e487-4369-9899-615f7e5590cc', 'username': '8109954e-1c23-45a0-a385-393277601495'}
+192.168.249.73 - - [03/Apr/2023 00:05:21] "GET /api/messages/5ae290ed-55d1-47a0-bc6d-fe2bc2700399 HTTP/1.1" 200 -
+192.168.249.73 - - [03/Apr/2023 00:05:24] "OPTIONS /api/messages HTTP/1.1" 200 -
+authenicated
+{'sub': '8109954e-1c23-45a0-a385-393277601495', 'iss': 'https://cognito-idp.us-east-1.amazonaws.com/us-east-1_p2LQ52ArJ', 'client_id': '245m80kue8q0rilt4nr4gtthdb', 'origin_jti': '9ed69cef-8d75-4ba4-9b0f-6d54b10ab5e6', 'event_id': 'eb0d69af-5ed6-44db-a9b5-26fac62e877c', 'token_use': 'access', 'scope': 'aws.cognito.signin.user.admin', 'auth_time': 1680478654, 'exp': 1680482254, 'iat': 1680478654, 'jti': 'c04ccf69-e487-4369-9899-615f7e5590cc', 'username': '8109954e-1c23-45a0-a385-393277601495'}
+192.168.249.73 - - [03/Apr/2023 00:05:25] "POST /api/messages HTTP/1.1" 200 -
+authenicated
+{'sub': '8109954e-1c23-45a0-a385-393277601495', 'iss': 'https://cognito-idp.us-east-1.amazonaws.com/us-east-1_p2LQ52ArJ', 'client_id': '245m80kue8q0rilt4nr4gtthdb', 'origin_jti': '9ed69cef-8d75-4ba4-9b0f-6d54b10ab5e6', 'event_id': 'eb0d69af-5ed6-44db-a9b5-26fac62e877c', 'token_use': 'access', 'scope': 'aws.cognito.signin.user.admin', 'auth_time': 1680478654, 'exp': 1680482254, 'iat': 1680478654, 'jti': 'c04ccf69-e487-4369-9899-615f7e5590cc', 'username': '8109954e-1c23-45a0-a385-393277601495'}
+ Load SQL Template: /backend-flask/db/sql/activities/home.sql 
+ SQL STATEMENT-[array]------
+SELECT
+  activities.uuid,
+  users.display_name,
+  users.handle,
+  activities.message,
+  activities.replies_count,
+  activities.reposts_count,
+  activities.likes_count,
+  activities.reply_to_activity_uuid,
+  activities.expires_at,
+  activities.created_at
+FROM public.activities
+LEFT JOIN public.users ON users.uuid = activities.user_uuid
+ORDER BY activities.created_at DESC
+ {}
+
+
+ Load SQL Template: /backend-flask/db/sql/users/uuid_from_cognito_user_id.sql 
+ SQL STATEMENT-[value]------
+SELECT
+  users.uuid
+FROM public.users
+WHERE 
+  users.cognito_user_id = %(cognito_user_id)s
+LIMIT 1 {'cognito_user_id': '8109954e-1c23-45a0-a385-393277601495'}
+UUID: 0d924455-6ec6-4cdd-90f2-aa3a1e49751d
+query-params: {'TableName': 'cruddur-messages', 'KeyConditionExpression': 'pk = :pk AND begins_with(sk,:year)', 'ScanIndexForward': False, 'Limit': 20, 'ExpressionAttributeValues': {':year': {'S': '2023'}, ':pk': {'S': 'GRP#0d924455-6ec6-4cdd-90f2-aa3a1e49751d'}}}
+{'TableName': 'cruddur-messages', 'KeyConditionExpression': 'pk = :pk AND begins_with(sk,:year)', 'ScanIndexForward': False, 'Limit': 20, 'ExpressionAttributeValues': {':year': {'S': '2023'}, ':pk': {'S': 'GRP#0d924455-6ec6-4cdd-90f2-aa3a1e49751d'}}}
+list_message_groups: [{'uuid': '5ae290ed-55d1-47a0-bc6d-fe2bc2700399', 'display_name': 'orcy', 'handle': 'orcy', 'message': 'this is a filler message', 'created_at': '2023-04-02T23:37:15.907933+00:00'}]
+
+
+ Load SQL Template: /backend-flask/db/sql/users/uuid_from_cognito_user_id.sql 
+ SQL STATEMENT-[value]------
+SELECT
+  users.uuid
+FROM public.users
+WHERE 
+  users.cognito_user_id = %(cognito_user_id)s
+LIMIT 1 {'cognito_user_id': '8109954e-1c23-45a0-a385-393277601495'}
+UUID: 0d924455-6ec6-4cdd-90f2-aa3a1e49751d
+query-params: {'TableName': 'cruddur-messages', 'KeyConditionExpression': 'pk = :pk AND begins_with(sk,:year)', 'ScanIndexForward': False, 'Limit': 20, 'ExpressionAttributeValues': {':year': {'S': '2023'}, ':pk': {'S': 'GRP#0d924455-6ec6-4cdd-90f2-aa3a1e49751d'}}}
+{'TableName': 'cruddur-messages', 'KeyConditionExpression': 'pk = :pk AND begins_with(sk,:year)', 'ScanIndexForward': False, 'Limit': 20, 'ExpressionAttributeValues': {':year': {'S': '2023'}, ':pk': {'S': 'GRP#0d924455-6ec6-4cdd-90f2-aa3a1e49751d'}}}
+list_message_groups: [{'uuid': '5ae290ed-55d1-47a0-bc6d-fe2bc2700399', 'display_name': 'orcy', 'handle': 'orcy', 'message': 'this is a filler message', 'created_at': '2023-04-02T23:37:15.907933+00:00'}]
+
+
+ Load SQL Template: /backend-flask/db/sql/users/uuid_from_cognito_user_id.sql 
+ SQL STATEMENT-[value]------
+SELECT
+  users.uuid
+FROM public.users
+WHERE 
+  users.cognito_user_id = %(cognito_user_id)s
+LIMIT 1 {'cognito_user_id': '8109954e-1c23-45a0-a385-393277601495'}
+UUID: 0d924455-6ec6-4cdd-90f2-aa3a1e49751d
+list_messages
+[{'uuid': '3c9c7bcd-5666-4b4a-9a80-976a1bbcf263', 'display_name': 'Amr', 'handle': 'amrmohie', 'message': "One thing that really stands out about Babylon 5 is the quality of the special effects. What did you think about the show's use of CGI and other visual effects?", 'created_at': '2023-04-03T01:01:15.907933+00:00'}, {'uuid': '2e506dea-4e01-4e6a-bdd3-83db1ec1c33c', 'display_name': 'orcy', 'handle': 'orcy', 'message': 'I thought the special effects in Babylon 5 were really impressive, especially for a show that aired in the 90s. The use of CGI to create the spaceships and other sci-fi elements was really innovative for its time.', 'created_at': '2023-04-03T01:02:15.907933+00:00'}, {'uuid': '04525d5e-892c-459e-ae9f-5958dcfa4095', 'display_name': 'Amr', 'handle': 'amrmohie', 'message': 'Yes, I was really blown away by the level of detail and realism in the effects. The ships looked so sleek and futuristic, and the space battles were really intense and exciting.', 'created_at': '2023-04-03T01:03:15.907933+00:00'}, {'uuid': 'd2440e41-214f-4e1c-a4bf-9eabf5637c50', 'display_name': 'orcy', 'handle': 'orcy', 'message': 'And I also appreciated the way the show integrated the visual effects with the live-action footage. It never felt like the effects were taking over or overshadowing the characters or the story.', 'created_at': '2023-04-03T01:04:15.907933+00:00'}, {'uuid': 'b30fb899-a32f-4889-8559-02276fb0da20', 'display_name': 'Amr', 'handle': 'amrmohie', 'message': 'Absolutely. The show had a great balance of practical effects and CGI, which helped to ground the sci-fi elements in a more tangible and realistic world.', 'created_at': '2023-04-03T01:05:15.907933+00:00'}, {'uuid': '953d4943-c843-45bd-992b-b9249053168d', 'display_name': 'orcy', 'handle': 'orcy', 'message': "And it's also worth noting the way the show's use of visual effects evolved over the course of the series. The effects in the first season were a bit rough around the edges, but by the end of the series, they had really refined and perfected the look and feel of the show.", 'created_at': '2023-04-03T01:06:15.907933+00:00'}, {'uuid': 'a76a846e-178c-460f-be49-14e6855aa29e', 'display_name': 'Amr', 'handle': 'amrmohie', 'message': "Yes, I agree. And it's impressive how they were able to accomplish all of this on a TV budget. The fact that the show was able to create such a rich and immersive sci-fi universe with limited resources is a testament to the talent and creativity of the production team.", 'created_at': '2023-04-03T01:07:15.907933+00:00'}, {'uuid': 'eb39cd04-6de2-42d4-a0c0-6665026823b3', 'display_name': 'orcy', 'handle': 'orcy', 'message': "Definitely. And it's one of the reasons why the show has aged so well. Even today, the visual effects still hold up and look impressive, which is a rarity for a show that's almost 30 years old.", 'created_at': '2023-04-03T01:08:15.907933+00:00'}, {'uuid': '32419808-46f4-436d-8899-e846dc45de3a', 'display_name': 'Amr', 'handle': 'amrmohie', 'message': "Agreed. And it's also worth noting the way the show's use of visual effects influenced other sci-fi shows that came after it. Babylon 5 really set the bar for what was possible in terms of sci-fi visuals on TV.", 'created_at': '2023-04-03T01:09:15.907933+00:00'}, {'uuid': 'c6831004-6dae-49b3-96c3-b42cf91425a7', 'display_name': 'orcy', 'handle': 'orcy', 'message': "Yes, it definitely had a big impact on the genre as a whole. And it's a great example of how innovative and groundbreaking sci-fi can be when it's done right.", 'created_at': '2023-04-03T01:10:15.907933+00:00'}, {'uuid': '667c0373-dfbb-42f6-bfa9-eaa97dfc6c5c', 'display_name': 'Amr', 'handle': 'amrmohie', 'message': 'Another character I wanted to discuss is Zathras. What did you think of his character?', 'created_at': '2023-04-03T01:11:15.907933+00:00'}, {'uuid': '17761f78-1102-4067-8cd4-846ff49ad4b3', 'display_name': 'orcy', 'handle': 'orcy', 'message': 'Zathras was a really unique and memorable character. He was quirky and eccentric, but also had a lot of heart and sincerity.', 'created_at': '2023-04-03T01:12:15.907933+00:00'}, {'uuid': '5714d354-f72e-45f2-8141-1030f099df94', 'display_name': 'Amr', 'handle': 'amrmohie', 'message': 'Yes, I thought he was a great addition to the show. He added some much-needed comic relief, but also had some important moments of character development.', 'created_at': '2023-04-03T01:13:15.907933+00:00'}, {'uuid': '529c9133-fe1b-4ce0-9881-888f24f5392f', 'display_name': 'orcy', 'handle': 'orcy', 'message': "And I appreciated the way the show used him as a sort of plot device, with his knowledge of time and space being instrumental in the resolution of some of the show's major storylines.", 'created_at': '2023-04-03T01:14:15.907933+00:00'}, {'uuid': '6645dc22-6369-4aa1-97eb-bec735c9cf55', 'display_name': 'Amr', 'handle': 'amrmohie', 'message': 'Definitely. It was a great way to integrate a seemingly minor character into the larger narrative. And it was also interesting to see the different versions of Zathras from different points in time.', 'created_at': '2023-04-03T01:15:15.907933+00:00'}, {'uuid': 'cc7c7b24-b2c3-41ca-8cac-19f5bb3b49c3', 'display_name': 'orcy', 'handle': 'orcy', 'message': 'Yeah, that was a clever storytelling device that really added to the sci-fi elements of the show. And it was also a great showcase for actor Tim Choate, who played the character with so much charm and energy.', 'created_at': '2023-04-03T01:16:15.907933+00:00'}, {'uuid': 'ddcabe3a-c5d5-4269-a7f5-620856f47074', 'display_name': 'Amr', 'handle': 'amrmohie', 'message': "I also thought that Zathras was a great example of the show's commitment to creating memorable and unique characters. Even characters that only appeared in a few episodes, like Zathras or Bester, were given distinct personalities and backstories.", 'created_at': '2023-04-03T01:17:15.907933+00:00'}, {'uuid': '274e8b1b-9233-4694-b3b4-a4eb8c7d52e3', 'display_name': 'orcy', 'handle': 'orcy', 'message': "Yes, that's a good point. Babylon 5 was really great at creating a diverse and interesting cast of characters, with each one feeling like a fully-realized and distinct individual.", 'created_at': '2023-04-03T01:18:15.907933+00:00'}, {'uuid': 'de9a31c9-0ff1-4c5c-84e7-166310919de4', 'display_name': 'Amr', 'handle': 'amrmohie', 'message': "And Zathras was just one example of that. He was a small but important part of the show's legacy, and he's still remembered fondly by fans today.", 'created_at': '2023-04-03T01:19:15.907933+00:00'}, {'uuid': '73c5a34a-d554-44ee-acc0-4a27d8b52cd2', 'display_name': 'orcy', 'handle': 'orcy', 'message': "Definitely. I think his character is a great example of the show's ability to balance humor and heart, and to create memorable and beloved characters that fans will cherish for years to come.", 'created_at': '2023-04-03T01:20:15.907933+00:00'}]
+
+
+ Load SQL Template: /backend-flask/db/sql/users/create_message_users.sql 
+ SQL STATEMENT-[array]------
+SELECT 
+  users.uuid,
+  users.display_name,
+  users.handle,
+  CASE users.cognito_user_id = %(cognito_user_id)s
+  WHEN TRUE THEN
+    'sender'
+  WHEN FALSE THEN
+    'recv'
+  ELSE
+    'other'
+  END as kind
+FROM public.users
+WHERE
+  users.cognito_user_id = %(cognito_user_id)s
+  OR 
+  users.handle = %(user_receiver_handle)s
+ {'cognito_user_id': '8109954e-1c23-45a0-a385-393277601495', 'user_receiver_handle': ''}
+USERS =-=-=-=-==
+[{'uuid': '0d924455-6ec6-4cdd-90f2-aa3a1e49751d', 'display_name': 'Amr', 'handle': 'amrmohie', 'kind': 'sender'}]
+USERS=[my-user]==
+{'uuid': '0d924455-6ec6-4cdd-90f2-aa3a1e49751d', 'display_name': 'Amr', 'handle': 'amrmohie', 'kind': 'sender'}
+USERS=[other-user]==
+None
+{'ResponseMetadata': {'RequestId': '10bdc464-1db7-4c24-a54c-e8ebd5a5db69', 'HTTPStatusCode': 200, 'HTTPHeaders': {'date': 'Mon, 03 Apr 2023 00:05:25 GMT', 'x-amzn-requestid': '10bdc464-1db7-4c24-a54c-e8ebd5a5db69', 'content-type': 'application/x-amz-json-1.0', 'x-amz-crc32': '2745614147', 'content-length': '2', 'server': 'Jetty(9.4.48.v20220622)'}, 'RetryAttempts': 0}}
+
+
+ Load SQL Template: /backend-flask/db/sql/users/uuid_from_cognito_user_id.sql 
+192.168.249.73 - - [03/Apr/2023 00:05:25] "OPTIONS /api/message_groups HTTP/1.1" 200 -
+192.168.249.73 - - [03/Apr/2023 00:05:25] "GET /api/messages/5ae290ed-55d1-47a0-bc6d-fe2bc2700399 HTTP/1.1" 200 -
+authenicated
+{'sub': '8109954e-1c23-45a0-a385-393277601495', 'iss': 'https://cognito-idp.us-east-1.amazonaws.com/us-east-1_p2LQ52ArJ', 'client_id': '245m80kue8q0rilt4nr4gtthdb', 'origin_jti': '9ed69cef-8d75-4ba4-9b0f-6d54b10ab5e6', 'event_id': 'eb0d69af-5ed6-44db-a9b5-26fac62e877c', 'token_use': 'access', 'scope': 'aws.cognito.signin.user.admin', 'auth_time': 1680478654, 'exp': 1680482254, 'iat': 1680478654, 'jti': 'c04ccf69-e487-4369-9899-615f7e5590cc', 'username': '8109954e-1c23-45a0-a385-393277601495'}
+192.168.249.73 - - [03/Apr/2023 00:05:25] "GET /api/message_groups HTTP/1.1" 200 -
+192.168.249.73 - - [03/Apr/2023 00:05:31] "OPTIONS /api/messages HTTP/1.1" 200 -
+authenicated
+{'sub': '8109954e-1c23-45a0-a385-393277601495', 'iss': 'https://cognito-idp.us-east-1.amazonaws.com/us-east-1_p2LQ52ArJ', 'client_id': '245m80kue8q0rilt4nr4gtthdb', 'origin_jti': '9ed69cef-8d75-4ba4-9b0f-6d54b10ab5e6', 'event_id': 'eb0d69af-5ed6-44db-a9b5-26fac62e877c', 'token_use': 'access', 'scope': 'aws.cognito.signin.user.admin', 'auth_time': 1680478654, 'exp': 1680482254, 'iat': 1680478654, 'jti': 'c04ccf69-e487-4369-9899-615f7e5590cc', 'username': '8109954e-1c23-45a0-a385-393277601495'}
+192.168.249.73 - - [03/Apr/2023 00:05:31] "POST /api/messages HTTP/1.1" 500 -
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/site-packages/flask/app.py", line 2551, in __call__
+    return self.wsgi_app(environ, start_response)
+  File "/usr/local/lib/python3.10/site-packages/opentelemetry/instrumentation/flask/__init__.py", line 345, in _wrapped_app
+    result = wsgi_app(wrapped_app_environ, _start_response)
+  File "/usr/local/lib/python3.10/site-packages/flask/app.py", line 2531, in wsgi_app
+    response = self.handle_exception(e)
+  File "/usr/local/lib/python3.10/site-packages/flask_cors/extension.py", line 165, in wrapped_function
+    return cors_after_request(app.make_response(f(*args, **kwargs)))
+  File "/usr/local/lib/python3.10/site-packages/flask/app.py", line 2528, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/usr/local/lib/python3.10/site-packages/flask/app.py", line 1825, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/usr/local/lib/python3.10/site-packages/flask_cors/extension.py", line 165, in wrapped_function
+    return cors_after_request(app.make_response(f(*args, **kwargs)))
+  File "/usr/local/lib/python3.10/site-packages/flask/app.py", line 1823, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/usr/local/lib/python3.10/site-packages/flask/app.py", line 1799, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)
+  File "/usr/local/lib/python3.10/site-packages/flask_cors/decorator.py", line 128, in wrapped_function
+    resp = make_response(f(*args, **kwargs))
+  File "/backend-flask/app.py", line 181, in data_create_message
+    model = CreateMessage.run(
+  File "/backend-flask/services/create_message.py", line 35, in run
+    'handle':  user_sender_handle,
+NameError: name 'user_sender_handle' is not defined
+192.168.249.73 - - [03/Apr/2023 00:05:39] "OPTIONS /api/messages HTTP/1.1" 200 -
+authenicated
+{'sub': '8109954e-1c23-45a0-a385-393277601495', 'iss': 'https://cognito-idp.us-east-1.amazonaws.com/us-east-1_p2LQ52ArJ', 'client_id': '245m80kue8q0rilt4nr4gtthdb', 'origin_jti': '9ed69cef-8d75-4ba4-9b0f-6d54b10ab5e6', 'event_id': 'eb0d69af-5ed6-44db-a9b5-26fac62e877c', 'token_use': 'access', 'scope': 'aws.cognito.signin.user.admin', 'auth_time': 1680478654, 'exp': 1680482254, 'iat': 1680478654, 'jti': 'c04ccf69-e487-4369-9899-615f7e5590cc', 'username': '8109954e-1c23-45a0-a385-393277601495'}
+ SQL STATEMENT-[value]------
+SELECT
+  users.uuid
+FROM public.users
+WHERE 
+  users.cognito_user_id = %(cognito_user_id)s
+LIMIT 1 {'cognito_user_id': '8109954e-1c23-45a0-a385-393277601495'}
+UUID: 0d924455-6ec6-4cdd-90f2-aa3a1e49751d
+list_messages
+[{'uuid': '3c9c7bcd-5666-4b4a-9a80-976a1bbcf263', 'display_name': 'Amr', 'handle': 'amrmohie', 'message': "One thing that really stands out about Babylon 5 is the quality of the special effects. What did you think about the show's use of CGI and other visual effects?", 'created_at': '2023-04-03T01:01:15.907933+00:00'}, {'uuid': '2e506dea-4e01-4e6a-bdd3-83db1ec1c33c', 'display_name': 'orcy', 'handle': 'orcy', 'message': 'I thought the special effects in Babylon 5 were really impressive, especially for a show that aired in the 90s. The use of CGI to create the spaceships and other sci-fi elements was really innovative for its time.', 'created_at': '2023-04-03T01:02:15.907933+00:00'}, {'uuid': '04525d5e-892c-459e-ae9f-5958dcfa4095', 'display_name': 'Amr', 'handle': 'amrmohie', 'message': 'Yes, I was really blown away by the level of detail and realism in the effects. The ships looked so sleek and futuristic, and the space battles were really intense and exciting.', 'created_at': '2023-04-03T01:03:15.907933+00:00'}, {'uuid': 'd2440e41-214f-4e1c-a4bf-9eabf5637c50', 'display_name': 'orcy', 'handle': 'orcy', 'message': 'And I also appreciated the way the show integrated the visual effects with the live-action footage. It never felt like the effects were taking over or overshadowing the characters or the story.', 'created_at': '2023-04-03T01:04:15.907933+00:00'}, {'uuid': 'b30fb899-a32f-4889-8559-02276fb0da20', 'display_name': 'Amr', 'handle': 'amrmohie', 'message': 'Absolutely. The show had a great balance of practical effects and CGI, which helped to ground the sci-fi elements in a more tangible and realistic world.', 'created_at': '2023-04-03T01:05:15.907933+00:00'}, {'uuid': '953d4943-c843-45bd-992b-b9249053168d', 'display_name': 'orcy', 'handle': 'orcy', 'message': "And it's also worth noting the way the show's use of visual effects evolved over the course of the series. The effects in the first season were a bit rough around the edges, but by the end of the series, they had really refined and perfected the look and feel of the show.", 'created_at': '2023-04-03T01:06:15.907933+00:00'}, {'uuid': 'a76a846e-178c-460f-be49-14e6855aa29e', 'display_name': 'Amr', 'handle': 'amrmohie', 'message': "Yes, I agree. And it's impressive how they were able to accomplish all of this on a TV budget. The fact that the show was able to create such a rich and immersive sci-fi universe with limited resources is a testament to the talent and creativity of the production team.", 'created_at': '2023-04-03T01:07:15.907933+00:00'}, {'uuid': 'eb39cd04-6de2-42d4-a0c0-6665026823b3', 'display_name': 'orcy', 'handle': 'orcy', 'message': "Definitely. And it's one of the reasons why the show has aged so well. Even today, the visual effects still hold up and look impressive, which is a rarity for a show that's almost 30 years old.", 'created_at': '2023-04-03T01:08:15.907933+00:00'}, {'uuid': '32419808-46f4-436d-8899-e846dc45de3a', 'display_name': 'Amr', 'handle': 'amrmohie', 'message': "Agreed. And it's also worth noting the way the show's use of visual effects influenced other sci-fi shows that came after it. Babylon 5 really set the bar for what was possible in terms of sci-fi visuals on TV.", 'created_at': '2023-04-03T01:09:15.907933+00:00'}, {'uuid': 'c6831004-6dae-49b3-96c3-b42cf91425a7', 'display_name': 'orcy', 'handle': 'orcy', 'message': "Yes, it definitely had a big impact on the genre as a whole. And it's a great example of how innovative and groundbreaking sci-fi can be when it's done right.", 'created_at': '2023-04-03T01:10:15.907933+00:00'}, {'uuid': '667c0373-dfbb-42f6-bfa9-eaa97dfc6c5c', 'display_name': 'Amr', 'handle': 'amrmohie', 'message': 'Another character I wanted to discuss is Zathras. What did you think of his character?', 'created_at': '2023-04-03T01:11:15.907933+00:00'}, {'uuid': '17761f78-1102-4067-8cd4-846ff49ad4b3', 'display_name': 'orcy', 'handle': 'orcy', 'message': 'Zathras was a really unique and memorable character. He was quirky and eccentric, but also had a lot of heart and sincerity.', 'created_at': '2023-04-03T01:12:15.907933+00:00'}, {'uuid': '5714d354-f72e-45f2-8141-1030f099df94', 'display_name': 'Amr', 'handle': 'amrmohie', 'message': 'Yes, I thought he was a great addition to the show. He added some much-needed comic relief, but also had some important moments of character development.', 'created_at': '2023-04-03T01:13:15.907933+00:00'}, {'uuid': '529c9133-fe1b-4ce0-9881-888f24f5392f', 'display_name': 'orcy', 'handle': 'orcy', 'message': "And I appreciated the way the show used him as a sort of plot device, with his knowledge of time and space being instrumental in the resolution of some of the show's major storylines.", 'created_at': '2023-04-03T01:14:15.907933+00:00'}, {'uuid': '6645dc22-6369-4aa1-97eb-bec735c9cf55', 'display_name': 'Amr', 'handle': 'amrmohie', 'message': 'Definitely. It was a great way to integrate a seemingly minor character into the larger narrative. And it was also interesting to see the different versions of Zathras from different points in time.', 'created_at': '2023-04-03T01:15:15.907933+00:00'}, {'uuid': 'cc7c7b24-b2c3-41ca-8cac-19f5bb3b49c3', 'display_name': 'orcy', 'handle': 'orcy', 'message': 'Yeah, that was a clever storytelling device that really added to the sci-fi elements of the show. And it was also a great showcase for actor Tim Choate, who played the character with so much charm and energy.', 'created_at': '2023-04-03T01:16:15.907933+00:00'}, {'uuid': 'ddcabe3a-c5d5-4269-a7f5-620856f47074', 'display_name': 'Amr', 'handle': 'amrmohie', 'message': "I also thought that Zathras was a great example of the show's commitment to creating memorable and unique characters. Even characters that only appeared in a few episodes, like Zathras or Bester, were given distinct personalities and backstories.", 'created_at': '2023-04-03T01:17:15.907933+00:00'}, {'uuid': '274e8b1b-9233-4694-b3b4-a4eb8c7d52e3', 'display_name': 'orcy', 'handle': 'orcy', 'message': "Yes, that's a good point. Babylon 5 was really great at creating a diverse and interesting cast of characters, with each one feeling like a fully-realized and distinct individual.", 'created_at': '2023-04-03T01:18:15.907933+00:00'}, {'uuid': 'de9a31c9-0ff1-4c5c-84e7-166310919de4', 'display_name': 'Amr', 'handle': 'amrmohie', 'message': "And Zathras was just one example of that. He was a small but important part of the show's legacy, and he's still remembered fondly by fans today.", 'created_at': '2023-04-03T01:19:15.907933+00:00'}, {'uuid': '73c5a34a-d554-44ee-acc0-4a27d8b52cd2', 'display_name': 'orcy', 'handle': 'orcy', 'message': "Definitely. I think his character is a great example of the show's ability to balance humor and heart, and to create memorable and beloved characters that fans will cherish for years to come.", 'created_at': '2023-04-03T01:20:15.907933+00:00'}]
+
+
+ Load SQL Template: /backend-flask/db/sql/users/uuid_from_cognito_user_id.sql 
+ SQL STATEMENT-[value]------
+SELECT
+  users.uuid
+FROM public.users
+WHERE 
+  users.cognito_user_id = %(cognito_user_id)s
+LIMIT 1 {'cognito_user_id': '8109954e-1c23-45a0-a385-393277601495'}
+UUID: 0d924455-6ec6-4cdd-90f2-aa3a1e49751d
+query-params: {'TableName': 'cruddur-messages', 'KeyConditionExpression': 'pk = :pk AND begins_with(sk,:year)', 'ScanIndexForward': False, 'Limit': 20, 'ExpressionAttributeValues': {':year': {'S': '2023'}, ':pk': {'S': 'GRP#0d924455-6ec6-4cdd-90f2-aa3a1e49751d'}}}
+{'TableName': 'cruddur-messages', 'KeyConditionExpression': 'pk = :pk AND begins_with(sk,:year)', 'ScanIndexForward': False, 'Limit': 20, 'ExpressionAttributeValues': {':year': {'S': '2023'}, ':pk': {'S': 'GRP#0d924455-6ec6-4cdd-90f2-aa3a1e49751d'}}}
+list_message_groups: [{'uuid': '5ae290ed-55d1-47a0-bc6d-fe2bc2700399', 'display_name': 'orcy', 'handle': 'orcy', 'message': 'this is a filler message', 'created_at': '2023-04-02T23:37:15.907933+00:00'}]
+
+
+192.168.249.73 - - [03/Apr/2023 00:05:39] "POST /api/messages HTTP/1.1" 200 -
+192.168.249.73 - - [03/Apr/2023 00:05:39] "OPTIONS /api/message_groups HTTP/1.1" 200 -
+192.168.249.73 - - [03/Apr/2023 00:05:39] "OPTIONS /api/messages/5ae290ed-55d1-47a0-bc6d-fe2bc2700399 HTTP/1.1" 200 -
+authenicated
+{'sub': '8109954e-1c23-45a0-a385-393277601495', 'iss': 'https://cognito-idp.us-east-1.amazonaws.com/us-east-1_p2LQ52ArJ', 'client_id': '245m80kue8q0rilt4nr4gtthdb', 'origin_jti': '9ed69cef-8d75-4ba4-9b0f-6d54b10ab5e6', 'event_id': 'eb0d69af-5ed6-44db-a9b5-26fac62e877c', 'token_use': 'access', 'scope': 'aws.cognito.signin.user.admin', 'auth_time': 1680478654, 'exp': 1680482254, 'iat': 1680478654, 'jti': 'c04ccf69-e487-4369-9899-615f7e5590cc', 'username': '8109954e-1c23-45a0-a385-393277601495'}
+authenicated
+{'sub': '8109954e-1c23-45a0-a385-393277601495', 'iss': 'https://cognito-idp.us-east-1.amazonaws.com/us-east-1_p2LQ52ArJ', 'client_id': '245m80kue8q0rilt4nr4gtthdb', 'origin_jti': '9ed69cef-8d75-4ba4-9b0f-6d54b10ab5e6', 'event_id': 'eb0d69af-5ed6-44db-a9b5-26fac62e877c', 'token_use': 'access', 'scope': 'aws.cognito.signin.user.admin', 'auth_time': 1680478654, 'exp': 1680482254, 'iat': 1680478654, 'jti': 'c04ccf69-e487-4369-9899-615f7e5590cc', 'username': '8109954e-1c23-45a0-a385-393277601495'}
+192.168.249.73 - - [03/Apr/2023 00:05:39] "GET /api/messages/5ae290ed-55d1-47a0-bc6d-fe2bc2700399 HTTP/1.1" 200 -
+192.168.249.73 - - [03/Apr/2023 00:05:39] "GET /api/message_groups HTTP/1.1" 200 -
+192.168.249.73 - - [03/Apr/2023 00:07:07] "OPTIONS /api/messages HTTP/1.1" 200 -
+authenicated
+{'sub': '8109954e-1c23-45a0-a385-393277601495', 'iss': 'https://cognito-idp.us-east-1.amazonaws.com/us-east-1_p2LQ52ArJ', 'client_id': '245m80kue8q0rilt4nr4gtthdb', 'origin_jti': '9ed69cef-8d75-4ba4-9b0f-6d54b10ab5e6', 'event_id': 'eb0d69af-5ed6-44db-a9b5-26fac62e877c', 'token_use': 'access', 'scope': 'aws.cognito.signin.user.admin', 'auth_time': 1680478654, 'exp': 1680482254, 'iat': 1680478654, 'jti': 'c04ccf69-e487-4369-9899-615f7e5590cc', 'username': '8109954e-1c23-45a0-a385-393277601495'}
+ Load SQL Template: /backend-flask/db/sql/users/create_message_users.sql 
+ SQL STATEMENT-[array]------
+SELECT 
+  users.uuid,
+  users.display_name,
+  users.handle,
+  CASE users.cognito_user_id = %(cognito_user_id)s
+  WHEN TRUE THEN
+    'sender'
+  WHEN FALSE THEN
+    'recv'
+  ELSE
+    'other'
+  END as kind
+FROM public.users
+WHERE
+  users.cognito_user_id = %(cognito_user_id)s
+  OR 
+  users.handle = %(user_receiver_handle)s
+ {'cognito_user_id': '8109954e-1c23-45a0-a385-393277601495', 'user_receiver_handle': ''}
+USERS =-=-=-=-==
+[{'uuid': '0d924455-6ec6-4cdd-90f2-aa3a1e49751d', 'display_name': 'Amr', 'handle': 'amrmohie', 'kind': 'sender'}]
+USERS=[my-user]==
+{'uuid': '0d924455-6ec6-4cdd-90f2-aa3a1e49751d', 'display_name': 'Amr', 'handle': 'amrmohie', 'kind': 'sender'}
+USERS=[other-user]==
+None
+{'ResponseMetadata': {'RequestId': 'c87d98c3-08b0-4812-8ae8-f554a797aeac', 'HTTPStatusCode': 200, 'HTTPHeaders': {'date': 'Mon, 03 Apr 2023 00:05:39 GMT', 'x-amzn-requestid': 'c87d98c3-08b0-4812-8ae8-f554a797aeac', 'content-type': 'application/x-amz-json-1.0', 'x-amz-crc32': '2745614147', 'content-length': '2', 'server': 'Jetty(9.4.48.v20220622)'}, 'RetryAttempts': 0}}
+
+
+ Load SQL Template: /backend-flask/db/sql/users/uuid_from_cognito_user_id.sql 
+ SQL STATEMENT-[value]------
+SELECT
+  users.uuid
+FROM public.users
+WHERE 
+  users.cognito_user_id = %(cognito_user_id)s
+LIMIT 1 {'cognito_user_id': '8109954e-1c23-45a0-a385-393277601495'}
+
+
+ Load SQL Template: /backend-flask/db/sql/users/uuid_from_cognito_user_id.sql 
+ SQL STATEMENT-[value]------
+SELECT
+  users.uuid
+FROM public.users
+WHERE 
+  users.cognito_user_id = %(cognito_user_id)s
+LIMIT 1 {'cognito_user_id': '8109954e-1c23-45a0-a385-393277601495'}
+UUID: 0d924455-6ec6-4cdd-90f2-aa3a1e49751d
+UUID: 0d924455-6ec6-4cdd-90f2-aa3a1e49751d
+query-params: {'TableName': 'cruddur-messages', 'KeyConditionExpression': 'pk = :pk AND begins_with(sk,:year)', 'ScanIndexForward': False, 'Limit': 20, 'ExpressionAttributeValues': {':year': {'S': '2023'}, ':pk': {'S': 'GRP#0d924455-6ec6-4cdd-90f2-aa3a1e49751d'}}}
+{'TableName': 'cruddur-messages', 'KeyConditionExpression': 'pk = :pk AND begins_with(sk,:year)', 'ScanIndexForward': False, 'Limit': 20, 'ExpressionAttributeValues': {':year': {'S': '2023'}, ':pk': {'S': 'GRP#0d924455-6ec6-4cdd-90f2-aa3a1e49751d'}}}
+list_messages
+[{'uuid': '3c9c7bcd-5666-4b4a-9a80-976a1bbcf263', 'display_name': 'Amr', 'handle': 'amrmohie', 'message': "One thing that really stands out about Babylon 5 is the quality of the special effects. What did you think about the show's use of CGI and other visual effects?", 'created_at': '2023-04-03T01:01:15.907933+00:00'}, {'uuid': '2e506dea-4e01-4e6a-bdd3-83db1ec1c33c', 'display_name': 'orcy', 'handle': 'orcy', 'message': 'I thought the special effects in Babylon 5 were really impressive, especially for a show that aired in the 90s. The use of CGI to create the spaceships and other sci-fi elements was really innovative for its time.', 'created_at': '2023-04-03T01:02:15.907933+00:00'}, {'uuid': '04525d5e-892c-459e-ae9f-5958dcfa4095', 'display_name': 'Amr', 'handle': 'amrmohie', 'message': 'Yes, I was really blown away by the level of detail and realism in the effects. The ships looked so sleek and futuristic, and the space battles were really intense and exciting.', 'created_at': '2023-04-03T01:03:15.907933+00:00'}, {'uuid': 'd2440e41-214f-4e1c-a4bf-9eabf5637c50', 'display_name': 'orcy', 'handle': 'orcy', 'message': 'And I also appreciated the way the show integrated the visual effects with the live-action footage. It never felt like the effects were taking over or overshadowing the characters or the story.', 'created_at': '2023-04-03T01:04:15.907933+00:00'}, {'uuid': 'b30fb899-a32f-4889-8559-02276fb0da20', 'display_name': 'Amr', 'handle': 'amrmohie', 'message': 'Absolutely. The show had a great balance of practical effects and CGI, which helped to ground the sci-fi elements in a more tangible and realistic world.', 'created_at': '2023-04-03T01:05:15.907933+00:00'}, {'uuid': '953d4943-c843-45bd-992b-b9249053168d', 'display_name': 'orcy', 'handle': 'orcy', 'message': "And it's also worth noting the way the show's use of visual effects evolved over the course of the series. The effects in the first season were a bit rough around the edges, but by the end of the series, they had really refined and perfected the look and feel of the show.", 'created_at': '2023-04-03T01:06:15.907933+00:00'}, {'uuid': 'a76a846e-178c-460f-be49-14e6855aa29e', 'display_name': 'Amr', 'handle': 'amrmohie', 'message': "Yes, I agree. And it's impressive how they were able to accomplish all of this on a TV budget. The fact that the show was able to create such a rich and immersive sci-fi universe with limited resources is a testament to the talent and creativity of the production team.", 'created_at': '2023-04-03T01:07:15.907933+00:00'}, {'uuid': 'eb39cd04-6de2-42d4-a0c0-6665026823b3', 'display_name': 'orcy', 'handle': 'orcy', 'message': "Definitely. And it's one of the reasons why the show has aged so well. Even today, the visual effects still hold up and look impressive, which is a rarity for a show that's almost 30 years old.", 'created_at': '2023-04-03T01:08:15.907933+00:00'}, {'uuid': '32419808-46f4-436d-8899-e846dc45de3a', 'display_name': 'Amr', 'handle': 'amrmohie', 'message': "Agreed. And it's also worth noting the way the show's use of visual effects influenced other sci-fi shows that came after it. Babylon 5 really set the bar for what was possible in terms of sci-fi visuals on TV.", 'created_at': '2023-04-03T01:09:15.907933+00:00'}, {'uuid': 'c6831004-6dae-49b3-96c3-b42cf91425a7', 'display_name': 'orcy', 'handle': 'orcy', 'message': "Yes, it definitely had a big impact on the genre as a whole. And it's a great example of how innovative and groundbreaking sci-fi can be when it's done right.", 'created_at': '2023-04-03T01:10:15.907933+00:00'}, {'uuid': '667c0373-dfbb-42f6-bfa9-eaa97dfc6c5c', 'display_name': 'Amr', 'handle': 'amrmohie', 'message': 'Another character I wanted to discuss is Zathras. What did you think of his character?', 'created_at': '2023-04-03T01:11:15.907933+00:00'}, {'uuid': '17761f78-1102-4067-8cd4-846ff49ad4b3', 'display_name': 'orcy', 'handle': 'orcy', 'message': 'Zathras was a really unique and memorable character. He was quirky and eccentric, but also had a lot of heart and sincerity.', 'created_at': '2023-04-03T01:12:15.907933+00:00'}, {'uuid': '5714d354-f72e-45f2-8141-1030f099df94', 'display_name': 'Amr', 'handle': 'amrmohie', 'message': 'Yes, I thought he was a great addition to the show. He added some much-needed comic relief, but also had some important moments of character development.', 'created_at': '2023-04-03T01:13:15.907933+00:00'}, {'uuid': '529c9133-fe1b-4ce0-9881-888f24f5392f', 'display_name': 'orcy', 'handle': 'orcy', 'message': "And I appreciated the way the show used him as a sort of plot device, with his knowledge of time and space being instrumental in the resolution of some of the show's major storylines.", 'created_at': '2023-04-03T01:14:15.907933+00:00'}, {'uuid': '6645dc22-6369-4aa1-97eb-bec735c9cf55', 'display_name': 'Amr', 'handle': 'amrmohie', 'message': 'Definitely. It was a great way to integrate a seemingly minor character into the larger narrative. And it was also interesting to see the different versions of Zathras from different points in time.', 'created_at': '2023-04-03T01:15:15.907933+00:00'}, {'uuid': 'cc7c7b24-b2c3-41ca-8cac-19f5bb3b49c3', 'display_name': 'orcy', 'handle': 'orcy', 'message': 'Yeah, that was a clever storytelling device that really added to the sci-fi elements of the show. And it was also a great showcase for actor Tim Choate, who played the character with so much charm and energy.', 'created_at': '2023-04-03T01:16:15.907933+00:00'}, {'uuid': 'ddcabe3a-c5d5-4269-a7f5-620856f47074', 'display_name': 'Amr', 'handle': 'amrmohie', 'message': "I also thought that Zathras was a great example of the show's commitment to creating memorable and unique characters. Even characters that only appeared in a few episodes, like Zathras or Bester, were given distinct personalities and backstories.", 'created_at': '2023-04-03T01:17:15.907933+00:00'}, {'uuid': '274e8b1b-9233-4694-b3b4-a4eb8c7d52e3', 'display_name': 'orcy', 'handle': 'orcy', 'message': "Yes, that's a good point. Babylon 5 was really great at creating a diverse and interesting cast of characters, with each one feeling like a fully-realized and distinct individual.", 'created_at': '2023-04-03T01:18:15.907933+00:00'}, {'uuid': 'de9a31c9-0ff1-4c5c-84e7-166310919de4', 'display_name': 'Amr', 'handle': 'amrmohie', 'message': "And Zathras was just one example of that. He was a small but important part of the show's legacy, and he's still remembered fondly by fans today.", 'created_at': '2023-04-03T01:19:15.907933+00:00'}, {'uuid': '73c5a34a-d554-44ee-acc0-4a27d8b52cd2', 'display_name': 'orcy', 'handle': 'orcy', 'message': "Definitely. I think his character is a great example of the show's ability to balance humor and heart, and to create memorable and beloved characters that fans will cherish for years to come.", 'created_at': '2023-04-03T01:20:15.907933+00:00'}]
+list_message_groups: [{'uuid': '5ae290ed-55d1-47a0-bc6d-fe2bc2700399', 'display_name': 'orcy', 'handle': 'orcy', 'message': 'this is a filler message', 'created_at': '2023-04-02T23:37:15.907933+00:00'}]
+
+
+ Load SQL Template: /backend-flask/db/sql/users/create_message_users.sql 
+ SQL STATEMENT-[array]------
+SELECT 
+  users.uuid,
+  users.display_name,
+  users.handle,
+  CASE users.cognito_user_id = %(cognito_user_id)s
+  WHEN TRUE THEN
+    'sender'
+  WHEN FALSE THEN
+    'recv'
+  ELSE
+    'other'
+  END as kind
+FROM public.users
+WHERE
+  users.cognito_user_id = %(cognito_user_id)s
+  OR 
+  users.handle = %(user_receiver_handle)s
+ {'cognito_user_id': '8109954e-1c23-45a0-a385-393277601495', 'user_receiver_handle': ''}
+USERS =-=-=-=-==
+[{'uuid': '0d924455-6ec6-4cdd-90f2-aa3a1e49751d', 'display_name': 'Amr', 'handle': 'amrmohie', 'kind': 'sender'}]
+USERS=[my-user]==
+{'uuid': '0d924455-6ec6-4cdd-90f2-aa3a1e49751d', 'display_name': 'Amr', 'handle': 'amrmohie', 'kind': 'sender'}
+USERS=[other-user]==
+None
+192.168.249.73 - - [03/Apr/2023 00:07:07] "POST /api/messages HTTP/1.1" 200 -
+192.168.249.73 - - [03/Apr/2023 00:07:08] "OPTIONS /api/messages/5ae290ed-55d1-47a0-bc6d-fe2bc2700399 HTTP/1.1" 200 -
+192.168.249.73 - - [03/Apr/2023 00:07:08] "OPTIONS /api/message_groups HTTP/1.1" 200 -
+authenicated
+{'sub': '8109954e-1c23-45a0-a385-393277601495', 'iss': 'https://cognito-idp.us-east-1.amazonaws.com/us-east-1_p2LQ52ArJ', 'client_id': '245m80kue8q0rilt4nr4gtthdb', 'origin_jti': '9ed69cef-8d75-4ba4-9b0f-6d54b10ab5e6', 'event_id': 'eb0d69af-5ed6-44db-a9b5-26fac62e877c', 'token_use': 'access', 'scope': 'aws.cognito.signin.user.admin', 'auth_time': 1680478654, 'exp': 1680482254, 'iat': 1680478654, 'jti': 'c04ccf69-e487-4369-9899-615f7e5590cc', 'username': '8109954e-1c23-45a0-a385-393277601495'}
+192.168.249.73 - - [03/Apr/2023 00:07:08] "GET /api/messages/5ae290ed-55d1-47a0-bc6d-fe2bc2700399 HTTP/1.1" 200 -
+authenicated
+{'sub': '8109954e-1c23-45a0-a385-393277601495', 'iss': 'https://cognito-idp.us-east-1.amazonaws.com/us-east-1_p2LQ52ArJ', 'client_id': '245m80kue8q0rilt4nr4gtthdb', 'origin_jti': '9ed69cef-8d75-4ba4-9b0f-6d54b10ab5e6', 'event_id': 'eb0d69af-5ed6-44db-a9b5-26fac62e877c', 'token_use': 'access', 'scope': 'aws.cognito.signin.user.admin', 'auth_time': 1680478654, 'exp': 1680482254, 'iat': 1680478654, 'jti': 'c04ccf69-e487-4369-9899-615f7e5590cc', 'username': '8109954e-1c23-45a0-a385-393277601495'}
+{'ResponseMetadata': {'RequestId': '5322329a-2213-4427-b255-e888e13e10a6', 'HTTPStatusCode': 200, 'HTTPHeaders': {'date': 'Mon, 03 Apr 2023 00:07:07 GMT', 'x-amzn-requestid': '5322329a-2213-4427-b255-e888e13e10a6', 'content-type': 'application/x-amz-json-1.0', 'x-amz-crc32': '2745614147', 'content-length': '2', 'server': 'Jetty(9.4.48.v20220622)'}, 'RetryAttempts': 0}}
+
+
+ Load SQL Template: /backend-flask/db/sql/users/uuid_from_cognito_user_id.sql 
+ SQL STATEMENT-[value]------
+SELECT
+  users.uuid
+FROM public.users
+WHERE 
+  users.cognito_user_id = %(cognito_user_id)s
+LIMIT 1 {'cognito_user_id': '8109954e-1c23-45a0-a385-393277601495'}
+UUID: 0d924455-6ec6-4cdd-90f2-aa3a1e49751d
+list_messages
+[{'uuid': '3c9c7bcd-5666-4b4a-9a80-976a1bbcf263', 'display_name': 'Amr', 'handle': 'amrmohie', 'message': "One thing that really stands out about Babylon 5 is the quality of the special effects. What did you think about the show's use of CGI and other visual effects?", 'created_at': '2023-04-03T01:01:15.907933+00:00'}, {'uuid': '2e506dea-4e01-4e6a-bdd3-83db1ec1c33c', 'display_name': 'orcy', 'handle': 'orcy', 'message': 'I thought the special effects in Babylon 5 were really impressive, especially for a show that aired in the 90s. The use of CGI to create the spaceships and other sci-fi elements was really innovative for its time.', 'created_at': '2023-04-03T01:02:15.907933+00:00'}, {'uuid': '04525d5e-892c-459e-ae9f-5958dcfa4095', 'display_name': 'Amr', 'handle': 'amrmohie', 'message': 'Yes, I was really blown away by the level of detail and realism in the effects. The ships looked so sleek and futuristic, and the space battles were really intense and exciting.', 'created_at': '2023-04-03T01:03:15.907933+00:00'}, {'uuid': 'd2440e41-214f-4e1c-a4bf-9eabf5637c50', 'display_name': 'orcy', 'handle': 'orcy', 'message': 'And I also appreciated the way the show integrated the visual effects with the live-action footage. It never felt like the effects were taking over or overshadowing the characters or the story.', 'created_at': '2023-04-03T01:04:15.907933+00:00'}, {'uuid': 'b30fb899-a32f-4889-8559-02276fb0da20', 'display_name': 'Amr', 'handle': 'amrmohie', 'message': 'Absolutely. The show had a great balance of practical effects and CGI, which helped to ground the sci-fi elements in a more tangible and realistic world.', 'created_at': '2023-04-03T01:05:15.907933+00:00'}, {'uuid': '953d4943-c843-45bd-992b-b9249053168d', 'display_name': 'orcy', 'handle': 'orcy', 'message': "And it's also worth noting the way the show's use of visual effects evolved over the course of the series. The effects in the first season were a bit rough around the edges, but by the end of the series, they had really refined and perfected the look and feel of the show.", 'created_at': '2023-04-03T01:06:15.907933+00:00'}, {'uuid': 'a76a846e-178c-460f-be49-14e6855aa29e', 'display_name': 'Amr', 'handle': 'amrmohie', 'message': "Yes, I agree. And it's impressive how they were able to accomplish all of this on a TV budget. The fact that the show was able to create such a rich and immersive sci-fi universe with limited resources is a testament to the talent and creativity of the production team.", 'created_at': '2023-04-03T01:07:15.907933+00:00'}, {'uuid': 'eb39cd04-6de2-42d4-a0c0-6665026823b3', 'display_name': 'orcy', 'handle': 'orcy', 'message': "Definitely. And it's one of the reasons why the show has aged so well. Even today, the visual effects still hold up and look impressive, which is a rarity for a show that's almost 30 years old.", 'created_at': '2023-04-03T01:08:15.907933+00:00'}, {'uuid': '32419808-46f4-436d-8899-e846dc45de3a', 'display_name': 'Amr', 'handle': 'amrmohie', 'message': "Agreed. And it's also worth noting the way the show's use of visual effects influenced other sci-fi shows that came after it. Babylon 5 really set the bar for what was possible in terms of sci-fi visuals on TV.", 'created_at': '2023-04-03T01:09:15.907933+00:00'}, {'uuid': 'c6831004-6dae-49b3-96c3-b42cf91425a7', 'display_name': 'orcy', 'handle': 'orcy', 'message': "Yes, it definitely had a big impact on the genre as a whole. And it's a great example of how innovative and groundbreaking sci-fi can be when it's done right.", 'created_at': '2023-04-03T01:10:15.907933+00:00'}, {'uuid': '667c0373-dfbb-42f6-bfa9-eaa97dfc6c5c', 'display_name': 'Amr', 'handle': 'amrmohie', 'message': 'Another character I wanted to discuss is Zathras. What did you think of his character?', 'created_at': '2023-04-03T01:11:15.907933+00:00'}, {'uuid': '17761f78-1102-4067-8cd4-846ff49ad4b3', 'display_name': 'orcy', 'handle': 'orcy', 'message': 'Zathras was a really unique and memorable character. He was quirky and eccentric, but also had a lot of heart and sincerity.', 'created_at': '2023-04-03T01:12:15.907933+00:00'}, {'uuid': '5714d354-f72e-45f2-8141-1030f099df94', 'display_name': 'Amr', 'handle': 'amrmohie', 'message': 'Yes, I thought he was a great addition to the show. He added some much-needed comic relief, but also had some important moments of character development.', 'created_at': '2023-04-03T01:13:15.907933+00:00'}, {'uuid': '529c9133-fe1b-4ce0-9881-888f24f5392f', 'display_name': 'orcy', 'handle': 'orcy', 'message': "And I appreciated the way the show used him as a sort of plot device, with his knowledge of time and space being instrumental in the resolution of some of the show's major storylines.", 'created_at': '2023-04-03T01:14:15.907933+00:00'}, {'uuid': '6645dc22-6369-4aa1-97eb-bec735c9cf55', 'display_name': 'Amr', 'handle': 'amrmohie', 'message': 'Definitely. It was a great way to integrate a seemingly minor character into the larger narrative. And it was also interesting to see the different versions of Zathras from different points in time.', 'created_at': '2023-04-03T01:15:15.907933+00:00'}, {'uuid': 'cc7c7b24-b2c3-41ca-8cac-19f5bb3b49c3', 'display_name': 'orcy', 'handle': 'orcy', 'message': 'Yeah, that was a clever storytelling device that really added to the sci-fi elements of the show. And it was also a great showcase for actor Tim Choate, who played the character with so much charm and energy.', 'created_at': '2023-04-03T01:16:15.907933+00:00'}, {'uuid': 'ddcabe3a-c5d5-4269-a7f5-620856f47074', 'display_name': 'Amr', 'handle': 'amrmohie', 'message': "I also thought that Zathras was a great example of the show's commitment to creating memorable and unique characters. Even characters that only appeared in a few episodes, like Zathras or Bester, were given distinct personalities and backstories.", 'created_at': '2023-04-03T01:17:15.907933+00:00'}, {'uuid': '274e8b1b-9233-4694-b3b4-a4eb8c7d52e3', 'display_name': 'orcy', 'handle': 'orcy', 'message': "Yes, that's a good point. Babylon 5 was really great at creating a diverse and interesting cast of characters, with each one feeling like a fully-realized and distinct individual.", 'created_at': '2023-04-03T01:18:15.907933+00:00'}, {'uuid': 'de9a31c9-0ff1-4c5c-84e7-166310919de4', 'display_name': 'Amr', 'handle': 'amrmohie', 'message': "And Zathras was just one example of that. He was a small but important part of the show's legacy, and he's still remembered fondly by fans today.", 'created_at': '2023-04-03T01:19:15.907933+00:00'}, {'uuid': '73c5a34a-d554-44ee-acc0-4a27d8b52cd2', 'display_name': 'orcy', 'handle': 'orcy', 'message': "Definitely. I think his character is a great example of the show's ability to balance humor and heart, and to create memorable and beloved characters that fans will cherish for years to come.", 'created_at': '2023-04-03T01:20:15.907933+00:00'}]
+
+
+ Load SQL Template: /backend-flask/db/sql/users/uuid_from_cognito_user_id.sql 
+ SQL STATEMENT-[value]------
+SELECT
+  users.uuid
+FROM public.users
+WHERE 
+  users.cognito_user_id = %(cognito_user_id)s
+LIMIT 1 {'cognito_user_id': '8109954e-1c23-45a0-a385-393277601495'}
+UUID: 0d924455-6ec6-4cdd-90f2-aa3a1e49751d
+192.168.249.73 - - [03/Apr/2023 00:07:08] "GET /api/message_groups HTTP/1.1" 200 -
+authenicated
+{'sub': '8109954e-1c23-45a0-a385-393277601495', 'iss': 'https://cognito-idp.us-east-1.amazonaws.com/us-east-1_p2LQ52ArJ', 'client_id': '245m80kue8q0rilt4nr4gtthdb', 'origin_jti': '9ed69cef-8d75-4ba4-9b0f-6d54b10ab5e6', 'event_id': 'eb0d69af-5ed6-44db-a9b5-26fac62e877c', 'token_use': 'access', 'scope': 'aws.cognito.signin.user.admin', 'auth_time': 1680478654, 'exp': 1680482254, 'iat': 1680478654, 'jti': 'c04ccf69-e487-4369-9899-615f7e5590cc', 'username': '8109954e-1c23-45a0-a385-393277601495'}
+192.168.249.73 - - [03/Apr/2023 00:07:09] "POST /api/messages HTTP/1.1" 500 -
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/site-packages/flask/app.py", line 2551, in __call__
+    return self.wsgi_app(environ, start_response)
+  File "/usr/local/lib/python3.10/site-packages/opentelemetry/instrumentation/flask/__init__.py", line 345, in _wrapped_app
+    result = wsgi_app(wrapped_app_environ, _start_response)
+  File "/usr/local/lib/python3.10/site-packages/flask/app.py", line 2531, in wsgi_app
+    response = self.handle_exception(e)
+  File "/usr/local/lib/python3.10/site-packages/flask_cors/extension.py", line 165, in wrapped_function
+    return cors_after_request(app.make_response(f(*args, **kwargs)))
+  File "/usr/local/lib/python3.10/site-packages/flask/app.py", line 2528, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/usr/local/lib/python3.10/site-packages/flask/app.py", line 1825, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/usr/local/lib/python3.10/site-packages/flask_cors/extension.py", line 165, in wrapped_function
+    return cors_after_request(app.make_response(f(*args, **kwargs)))
+  File "/usr/local/lib/python3.10/site-packages/flask/app.py", line 1823, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/usr/local/lib/python3.10/site-packages/flask/app.py", line 1799, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)
+  File "/usr/local/lib/python3.10/site-packages/flask_cors/decorator.py", line 128, in wrapped_function
+    resp = make_response(f(*args, **kwargs))
+  File "/backend-flask/app.py", line 181, in data_create_message
+    model = CreateMessage.run(
+  File "/backend-flask/services/create_message.py", line 35, in run
+    'handle':  user_sender_handle,
+NameError: name 'user_sender_handle' is not defined
+192.168.249.73 - - [03/Apr/2023 00:07:11] "OPTIONS /api/messages HTTP/1.1" 200 -
+authenicated
+{'sub': '8109954e-1c23-45a0-a385-393277601495', 'iss': 'https://cognito-idp.us-east-1.amazonaws.com/us-east-1_p2LQ52ArJ', 'client_id': '245m80kue8q0rilt4nr4gtthdb', 'origin_jti': '9ed69cef-8d75-4ba4-9b0f-6d54b10ab5e6', 'event_id': 'eb0d69af-5ed6-44db-a9b5-26fac62e877c', 'token_use': 'access', 'scope': 'aws.cognito.signin.user.admin', 'auth_time': 1680478654, 'exp': 1680482254, 'iat': 1680478654, 'jti': 'c04ccf69-e487-4369-9899-615f7e5590cc', 'username': '8109954e-1c23-45a0-a385-393277601495'}
+192.168.249.73 - - [03/Apr/2023 00:07:11] "POST /api/messages HTTP/1.1" 500 -
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/site-packages/flask/app.py", line 2551, in __call__
+    return self.wsgi_app(environ, start_response)
+  File "/usr/local/lib/python3.10/site-packages/opentelemetry/instrumentation/flask/__init__.py", line 345, in _wrapped_app
+    result = wsgi_app(wrapped_app_environ, _start_response)
+  File "/usr/local/lib/python3.10/site-packages/flask/app.py", line 2531, in wsgi_app
+    response = self.handle_exception(e)
+  File "/usr/local/lib/python3.10/site-packages/flask_cors/extension.py", line 165, in wrapped_function
+    return cors_after_request(app.make_response(f(*args, **kwargs)))
+  File "/usr/local/lib/python3.10/site-packages/flask/app.py", line 2528, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/usr/local/lib/python3.10/site-packages/flask/app.py", line 1825, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/usr/local/lib/python3.10/site-packages/flask_cors/extension.py", line 165, in wrapped_function
+    return cors_after_request(app.make_response(f(*args, **kwargs)))
+  File "/usr/local/lib/python3.10/site-packages/flask/app.py", line 1823, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/usr/local/lib/python3.10/site-packages/flask/app.py", line 1799, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)
+  File "/usr/local/lib/python3.10/site-packages/flask_cors/decorator.py", line 128, in wrapped_function
+    resp = make_response(f(*args, **kwargs))
+  File "/backend-flask/app.py", line 181, in data_create_message
+    model = CreateMessage.run(
+  File "/backend-flask/services/create_message.py", line 35, in run
+    'handle':  user_sender_handle,
+NameError: name 'user_sender_handle' is not defined
+192.168.249.73 - - [03/Apr/2023 00:07:12] "OPTIONS /api/messages HTTP/1.1" 200 -
+authenicated
+{'sub': '8109954e-1c23-45a0-a385-393277601495', 'iss': 'https://cognito-idp.us-east-1.amazonaws.com/us-east-1_p2LQ52ArJ', 'client_id': '245m80kue8q0rilt4nr4gtthdb', 'origin_jti': '9ed69cef-8d75-4ba4-9b0f-6d54b10ab5e6', 'event_id': 'eb0d69af-5ed6-44db-a9b5-26fac62e877c', 'token_use': 'access', 'scope': 'aws.cognito.signin.user.admin', 'auth_time': 1680478654, 'exp': 1680482254, 'iat': 1680478654, 'jti': 'c04ccf69-e487-4369-9899-615f7e5590cc', 'username': '8109954e-1c23-45a0-a385-393277601495'}
+192.168.249.73 - - [03/Apr/2023 00:07:12] "POST /api/messages HTTP/1.1" 500 -
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/site-packages/flask/app.py", line 2551, in __call__
+    return self.wsgi_app(environ, start_response)
+  File "/usr/local/lib/python3.10/site-packages/opentelemetry/instrumentation/flask/__init__.py", line 345, in _wrapped_app
+    result = wsgi_app(wrapped_app_environ, _start_response)
+  File "/usr/local/lib/python3.10/site-packages/flask/app.py", line 2531, in wsgi_app
+    response = self.handle_exception(e)
+  File "/usr/local/lib/python3.10/site-packages/flask_cors/extension.py", line 165, in wrapped_function
+    return cors_after_request(app.make_response(f(*args, **kwargs)))
+  File "/usr/local/lib/python3.10/site-packages/flask/app.py", line 2528, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/usr/local/lib/python3.10/site-packages/flask/app.py", line 1825, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/usr/local/lib/python3.10/site-packages/flask_cors/extension.py", line 165, in wrapped_function
+    return cors_after_request(app.make_response(f(*args, **kwargs)))
+  File "/usr/local/lib/python3.10/site-packages/flask/app.py", line 1823, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/usr/local/lib/python3.10/site-packages/flask/app.py", line 1799, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)
+  File "/usr/local/lib/python3.10/site-packages/flask_cors/decorator.py", line 128, in wrapped_function
+    resp = make_response(f(*args, **kwargs))
+  File "/backend-flask/app.py", line 181, in data_create_message
+    model = CreateMessage.run(
+  File "/backend-flask/services/create_message.py", line 35, in run
+    'handle':  user_sender_handle,
+NameError: name 'user_sender_handle' is not defined
+192.168.249.73 - - [03/Apr/2023 00:07:12] "OPTIONS /api/messages HTTP/1.1" 200 -
+authenicated
+{'sub': '8109954e-1c23-45a0-a385-393277601495', 'iss': 'https://cognito-idp.us-east-1.amazonaws.com/us-east-1_p2LQ52ArJ', 'client_id': '245m80kue8q0rilt4nr4gtthdb', 'origin_jti': '9ed69cef-8d75-4ba4-9b0f-6d54b10ab5e6', 'event_id': 'eb0d69af-5ed6-44db-a9b5-26fac62e877c', 'token_use': 'access', 'scope': 'aws.cognito.signin.user.admin', 'auth_time': 1680478654, 'exp': 1680482254, 'iat': 1680478654, 'jti': 'c04ccf69-e487-4369-9899-615f7e5590cc', 'username': '8109954e-1c23-45a0-a385-393277601495'}
+192.168.249.73 - - [03/Apr/2023 00:07:12] "POST /api/messages HTTP/1.1" 500 -
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/site-packages/flask/app.py", line 2551, in __call__
+    return self.wsgi_app(environ, start_response)
+  File "/usr/local/lib/python3.10/site-packages/opentelemetry/instrumentation/flask/__init__.py", line 345, in _wrapped_app
+    result = wsgi_app(wrapped_app_environ, _start_response)
+  File "/usr/local/lib/python3.10/site-packages/flask/app.py", line 2531, in wsgi_app
+    response = self.handle_exception(e)
+  File "/usr/local/lib/python3.10/site-packages/flask_cors/extension.py", line 165, in wrapped_function
+    return cors_after_request(app.make_response(f(*args, **kwargs)))
+  File "/usr/local/lib/python3.10/site-packages/flask/app.py", line 2528, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/usr/local/lib/python3.10/site-packages/flask/app.py", line 1825, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/usr/local/lib/python3.10/site-packages/flask_cors/extension.py", line 165, in wrapped_function
+    return cors_after_request(app.make_response(f(*args, **kwargs)))
+  File "/usr/local/lib/python3.10/site-packages/flask/app.py", line 1823, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/usr/local/lib/python3.10/site-packages/flask/app.py", line 1799, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)
+  File "/usr/local/lib/python3.10/site-packages/flask_cors/decorator.py", line 128, in wrapped_function
+    resp = make_response(f(*args, **kwargs))
+  File "/backend-flask/app.py", line 181, in data_create_message
+    model = CreateMessage.run(
+  File "/backend-flask/services/create_message.py", line 35, in run
+    'handle':  user_sender_handle,
+NameError: name 'user_sender_handle' is not defined
+192.168.249.73 - - [03/Apr/2023 00:07:19] "OPTIONS /api/messages HTTP/1.1" 200 -
+authenicated
+{'sub': '8109954e-1c23-45a0-a385-393277601495', 'iss': 'https://cognito-idp.us-east-1.amazonaws.com/us-east-1_p2LQ52ArJ', 'client_id': '245m80kue8q0rilt4nr4gtthdb', 'origin_jti': '9ed69cef-8d75-4ba4-9b0f-6d54b10ab5e6', 'event_id': 'eb0d69af-5ed6-44db-a9b5-26fac62e877c', 'token_use': 'access', 'scope': 'aws.cognito.signin.user.admin', 'auth_time': 1680478654, 'exp': 1680482254, 'iat': 1680478654, 'jti': 'c04ccf69-e487-4369-9899-615f7e5590cc', 'username': '8109954e-1c23-45a0-a385-393277601495'}
+192.168.249.73 - - [03/Apr/2023 00:07:19] "POST /api/messages HTTP/1.1" 200 -
+192.168.249.73 - - [03/Apr/2023 00:07:20] "OPTIONS /api/message_groups HTTP/1.1" 200 -
+192.168.249.73 - - [03/Apr/2023 00:07:20] "OPTIONS /api/messages/5ae290ed-55d1-47a0-bc6d-fe2bc2700399 HTTP/1.1" 200 -
+authenicated
+{'sub': '8109954e-1c23-45a0-a385-393277601495', 'iss': 'https://cognito-idp.us-east-1.amazonaws.com/us-east-1_p2LQ52ArJ', 'client_id': '245m80kue8q0rilt4nr4gtthdb', 'origin_jti': '9ed69cef-8d75-4ba4-9b0f-6d54b10ab5e6', 'event_id': 'eb0d69af-5ed6-44db-a9b5-26fac62e877c', 'token_use': 'access', 'scope': 'aws.cognito.signin.user.admin', 'auth_time': 1680478654, 'exp': 1680482254, 'iat': 1680478654, 'jti': 'c04ccf69-e487-4369-9899-615f7e5590cc', 'username': '8109954e-1c23-45a0-a385-393277601495'}
+authenicated
+{'sub': '8109954e-1c23-45a0-a385-393277601495', 'iss': 'https://cognito-idp.us-east-1.amazonaws.com/us-east-1_p2LQ52ArJ', 'client_id': '245m80kue8q0rilt4nr4gtthdb', 'origin_jti': '9ed69cef-8d75-4ba4-9b0f-6d54b10ab5e6', 'event_id': 'eb0d69af-5ed6-44db-a9b5-26fac62e877c', 'token_use': 'access', 'scope': 'aws.cognito.signin.user.admin', 'auth_time': 1680478654, 'exp': 1680482254, 'iat': 1680478654, 'jti': 'c04ccf69-e487-4369-9899-615f7e5590cc', 'username': '8109954e-1c23-45a0-a385-393277601495'}
+192.168.249.73 - - [03/Apr/2023 00:07:20] "GET /api/message_groups HTTP/1.1" 200 -
+192.168.249.73 - - [03/Apr/2023 00:07:20] "GET /api/messages/5ae290ed-55d1-47a0-bc6d-fe2bc2700399 HTTP/1.1" 200 -
+192.168.249.73 - - [03/Apr/2023 00:13:48] "OPTIONS /api/message_groups HTTP/1.1" 200 -
+192.168.249.73 - - [03/Apr/2023 00:13:48] "OPTIONS /api/messages/5ae290ed-55d1-47a0-bc6d-fe2bc2700399 HTTP/1.1" 200 -
+authenicated
+{'sub': '8109954e-1c23-45a0-a385-393277601495', 'iss': 'https://cognito-idp.us-east-1.amazonaws.com/us-east-1_p2LQ52ArJ', 'client_id': '245m80kue8q0rilt4nr4gtthdb', 'origin_jti': '9ed69cef-8d75-4ba4-9b0f-6d54b10ab5e6', 'event_id': 'eb0d69af-5ed6-44db-a9b5-26fac62e877c', 'token_use': 'access', 'scope': 'aws.cognito.signin.user.admin', 'auth_time': 1680478654, 'exp': 1680482254, 'iat': 1680478654, 'jti': 'c04ccf69-e487-4369-9899-615f7e5590cc', 'username': '8109954e-1c23-45a0-a385-393277601495'}
+192.168.249.73 - - [03/Apr/2023 00:13:48] "GET /api/message_groups HTTP/1.1" 200 -
+authenicated
+{'sub': '8109954e-1c23-45a0-a385-393277601495', 'iss': 'https://cognito-idp.us-east-1.amazonaws.com/us-east-1_p2LQ52ArJ', 'client_id': '245m80kue8q0rilt4nr4gtthdb', 'origin_jti': '9ed69cef-8d75-4ba4-9b0f-6d54b10ab5e6', 'event_id': 'eb0d69af-5ed6-44db-a9b5-26fac62e877c', 'token_use': 'access', 'scope': 'aws.cognito.signin.user.admin', 'auth_time': 1680478654, 'exp': 1680482254, 'iat': 1680478654, 'jti': 'c04ccf69-e487-4369-9899-615f7e5590cc', 'username': '8109954e-1c23-45a0-a385-393277601495'}
+query-params: {'TableName': 'cruddur-messages', 'KeyConditionExpression': 'pk = :pk AND begins_with(sk,:year)', 'ScanIndexForward': False, 'Limit': 20, 'ExpressionAttributeValues': {':year': {'S': '2023'}, ':pk': {'S': 'GRP#0d924455-6ec6-4cdd-90f2-aa3a1e49751d'}}}
+{'TableName': 'cruddur-messages', 'KeyConditionExpression': 'pk = :pk AND begins_with(sk,:year)', 'ScanIndexForward': False, 'Limit': 20, 'ExpressionAttributeValues': {':year': {'S': '2023'}, ':pk': {'S': 'GRP#0d924455-6ec6-4cdd-90f2-aa3a1e49751d'}}}
+list_message_groups: [{'uuid': '5ae290ed-55d1-47a0-bc6d-fe2bc2700399', 'display_name': 'orcy', 'handle': 'orcy', 'message': 'this is a filler message', 'created_at': '2023-04-02T23:37:15.907933+00:00'}]
+
+
+ Load SQL Template: /backend-flask/db/sql/users/create_message_users.sql 
+ SQL STATEMENT-[array]------
+SELECT 
+  users.uuid,
+  users.display_name,
+  users.handle,
+  CASE users.cognito_user_id = %(cognito_user_id)s
+  WHEN TRUE THEN
+    'sender'
+  WHEN FALSE THEN
+    'recv'
+  ELSE
+    'other'
+  END as kind
+FROM public.users
+WHERE
+  users.cognito_user_id = %(cognito_user_id)s
+  OR 
+  users.handle = %(user_receiver_handle)s
+ {'cognito_user_id': '8109954e-1c23-45a0-a385-393277601495', 'user_receiver_handle': ''}
+USERS =-=-=-=-==
+[{'uuid': '0d924455-6ec6-4cdd-90f2-aa3a1e49751d', 'display_name': 'Amr', 'handle': 'amrmohie', 'kind': 'sender'}]
+USERS=[my-user]==
+{'uuid': '0d924455-6ec6-4cdd-90f2-aa3a1e49751d', 'display_name': 'Amr', 'handle': 'amrmohie', 'kind': 'sender'}
+USERS=[other-user]==
+None
+{'ResponseMetadata': {'RequestId': '818df2a5-698c-4c2e-903e-0d2ab703fe55', 'HTTPStatusCode': 200, 'HTTPHeaders': {'date': 'Mon, 03 Apr 2023 00:07:19 GMT', 'x-amzn-requestid': '818df2a5-698c-4c2e-903e-0d2ab703fe55', 'content-type': 'application/x-amz-json-1.0', 'x-amz-crc32': '2745614147', 'content-length': '2', 'server': 'Jetty(9.4.48.v20220622)'}, 'RetryAttempts': 0}}
+
+
+ Load SQL Template: /backend-flask/db/sql/users/uuid_from_cognito_user_id.sql 
+ SQL STATEMENT-[value]------
+SELECT
+  users.uuid
+FROM public.users
+WHERE 
+  users.cognito_user_id = %(cognito_user_id)s
+LIMIT 1 {'cognito_user_id': '8109954e-1c23-45a0-a385-393277601495'}
+
+
+ Load SQL Template: /backend-flask/db/sql/users/uuid_from_cognito_user_id.sql 
+ SQL STATEMENT-[value]------
+SELECT
+  users.uuid
+FROM public.users
+WHERE 
+  users.cognito_user_id = %(cognito_user_id)s
+LIMIT 1 {'cognito_user_id': '8109954e-1c23-45a0-a385-393277601495'}
+UUID: 0d924455-6ec6-4cdd-90f2-aa3a1e49751d
+UUID: 0d924455-6ec6-4cdd-90f2-aa3a1e49751d
+query-params: {'TableName': 'cruddur-messages', 'KeyConditionExpression': 'pk = :pk AND begins_with(sk,:year)', 'ScanIndexForward': False, 'Limit': 20, 'ExpressionAttributeValues': {':year': {'S': '2023'}, ':pk': {'S': 'GRP#0d924455-6ec6-4cdd-90f2-aa3a1e49751d'}}}
+{'TableName': 'cruddur-messages', 'KeyConditionExpression': 'pk = :pk AND begins_with(sk,:year)', 'ScanIndexForward': False, 'Limit': 20, 'ExpressionAttributeValues': {':year': {'S': '2023'}, ':pk': {'S': 'GRP#0d924455-6ec6-4cdd-90f2-aa3a1e49751d'}}}
+list_message_groups: [{'uuid': '5ae290ed-55d1-47a0-bc6d-fe2bc2700399', 'display_name': 'orcy', 'handle': 'orcy', 'message': 'this is a filler message', 'created_at': '2023-04-02T23:37:15.907933+00:00'}]
+list_messages
+[{'uuid': '3c9c7bcd-5666-4b4a-9a80-976a1bbcf263', 'display_name': 'Amr', 'handle': 'amrmohie', 'message': "One thing that really stands out about Babylon 5 is the quality of the special effects. What did you think about the show's use of CGI and other visual effects?", 'created_at': '2023-04-03T01:01:15.907933+00:00'}, {'uuid': '2e506dea-4e01-4e6a-bdd3-83db1ec1c33c', 'display_name': 'orcy', 'handle': 'orcy', 'message': 'I thought the special effects in Babylon 5 were really impressive, especially for a show that aired in the 90s. The use of CGI to create the spaceships and other sci-fi elements was really innovative for its time.', 'created_at': '2023-04-03T01:02:15.907933+00:00'}, {'uuid': '04525d5e-892c-459e-ae9f-5958dcfa4095', 'display_name': 'Amr', 'handle': 'amrmohie', 'message': 'Yes, I was really blown away by the level of detail and realism in the effects. The ships looked so sleek and futuristic, and the space battles were really intense and exciting.', 'created_at': '2023-04-03T01:03:15.907933+00:00'}, {'uuid': 'd2440e41-214f-4e1c-a4bf-9eabf5637c50', 'display_name': 'orcy', 'handle': 'orcy', 'message': 'And I also appreciated the way the show integrated the visual effects with the live-action footage. It never felt like the effects were taking over or overshadowing the characters or the story.', 'created_at': '2023-04-03T01:04:15.907933+00:00'}, {'uuid': 'b30fb899-a32f-4889-8559-02276fb0da20', 'display_name': 'Amr', 'handle': 'amrmohie', 'message': 'Absolutely. The show had a great balance of practical effects and CGI, which helped to ground the sci-fi elements in a more tangible and realistic world.', 'created_at': '2023-04-03T01:05:15.907933+00:00'}, {'uuid': '953d4943-c843-45bd-992b-b9249053168d', 'display_name': 'orcy', 'handle': 'orcy', 'message': "And it's also worth noting the way the show's use of visual effects evolved over the course of the series. The effects in the first season were a bit rough around the edges, but by the end of the series, they had really refined and perfected the look and feel of the show.", 'created_at': '2023-04-03T01:06:15.907933+00:00'}, {'uuid': 'a76a846e-178c-460f-be49-14e6855aa29e', 'display_name': 'Amr', 'handle': 'amrmohie', 'message': "Yes, I agree. And it's impressive how they were able to accomplish all of this on a TV budget. The fact that the show was able to create such a rich and immersive sci-fi universe with limited resources is a testament to the talent and creativity of the production team.", 'created_at': '2023-04-03T01:07:15.907933+00:00'}, {'uuid': 'eb39cd04-6de2-42d4-a0c0-6665026823b3', 'display_name': 'orcy', 'handle': 'orcy', 'message': "Definitely. And it's one of the reasons why the show has aged so well. Even today, the visual effects still hold up and look impressive, which is a rarity for a show that's almost 30 years old.", 'created_at': '2023-04-03T01:08:15.907933+00:00'}, {'uuid': '32419808-46f4-436d-8899-e846dc45de3a', 'display_name': 'Amr', 'handle': 'amrmohie', 'message': "Agreed. And it's also worth noting the way the show's use of visual effects influenced other sci-fi shows that came after it. Babylon 5 really set the bar for what was possible in terms of sci-fi visuals on TV.", 'created_at': '2023-04-03T01:09:15.907933+00:00'}, {'uuid': 'c6831004-6dae-49b3-96c3-b42cf91425a7', 'display_name': 'orcy', 'handle': 'orcy', 'message': "Yes, it definitely had a big impact on the genre as a whole. And it's a great example of how innovative and groundbreaking sci-fi can be when it's done right.", 'created_at': '2023-04-03T01:10:15.907933+00:00'}, {'uuid': '667c0373-dfbb-42f6-bfa9-eaa97dfc6c5c', 'display_name': 'Amr', 'handle': 'amrmohie', 'message': 'Another character I wanted to discuss is Zathras. What did you think of his character?', 'created_at': '2023-04-03T01:11:15.907933+00:00'}, {'uuid': '17761f78-1102-4067-8cd4-846ff49ad4b3', 'display_name': 'orcy', 'handle': 'orcy', 'message': 'Zathras was a really unique and memorable character. He was quirky and eccentric, but also had a lot of heart and sincerity.', 'created_at': '2023-04-03T01:12:15.907933+00:00'}, {'uuid': '5714d354-f72e-45f2-8141-1030f099df94', 'display_name': 'Amr', 'handle': 'amrmohie', 'message': 'Yes, I thought he was a great addition to the show. He added some much-needed comic relief, but also had some important moments of character development.', 'created_at': '2023-04-03T01:13:15.907933+00:00'}, {'uuid': '529c9133-fe1b-4ce0-9881-888f24f5392f', 'display_name': 'orcy', 'handle': 'orcy', 'message': "And I appreciated the way the show used him as a sort of plot device, with his knowledge of time and space being instrumental in the resolution of some of the show's major storylines.", 'created_at': '2023-04-03T01:14:15.907933+00:00'}, {'uuid': '6645dc22-6369-4aa1-97eb-bec735c9cf55', 'display_name': 'Amr', 'handle': 'amrmohie', 'message': 'Definitely. It was a great way to integrate a seemingly minor character into the larger narrative. And it was also interesting to see the different versions of Zathras from different points in time.', 'created_at': '2023-04-03T01:15:15.907933+00:00'}, {'uuid': 'cc7c7b24-b2c3-41ca-8cac-19f5bb3b49c3', 'display_name': 'orcy', 'handle': 'orcy', 'message': 'Yeah, that was a clever storytelling device that really added to the sci-fi elements of the show. And it was also a great showcase for actor Tim Choate, who played the character with so much charm and energy.', 'created_at': '2023-04-03T01:16:15.907933+00:00'}, {'uuid': 'ddcabe3a-c5d5-4269-a7f5-620856f47074', 'display_name': 'Amr', 'handle': 'amrmohie', 'message': "I also thought that Zathras was a great example of the show's commitment to creating memorable and unique characters. Even characters that only appeared in a few episodes, like Zathras or Bester, were given distinct personalities and backstories.", 'created_at': '2023-04-03T01:17:15.907933+00:00'}, {'uuid': '274e8b1b-9233-4694-b3b4-a4eb8c7d52e3', 'display_name': 'orcy', 'handle': 'orcy', 'message': "Yes, that's a good point. Babylon 5 was really great at creating a diverse and interesting cast of characters, with each one feeling like a fully-realized and distinct individual.", 'created_at': '2023-04-03T01:18:15.907933+00:00'}, {'uuid': 'de9a31c9-0ff1-4c5c-84e7-166310919de4', 'display_name': 'Amr', 'handle': 'amrmohie', 'message': "And Zathras was just one example of that. He was a small but important part of the show's legacy, and he's still remembered fondly by fans today.", 'created_at': '2023-04-03T01:19:15.907933+00:00'}, {'uuid': '73c5a34a-d554-44ee-acc0-4a27d8b52cd2', 'display_name': 'orcy', 'handle': 'orcy', 'message': "Definitely. I think his character is a great example of the show's ability to balance humor and heart, and to create memorable and beloved characters that fans will cherish for years to come.", 'created_at': '2023-04-03T01:20:15.907933+00:00'}]
+
+
+ Load SQL Template: /backend-flask/db/sql/users/uuid_from_cognito_user_id.sql 
+ SQL STATEMENT-[value]------
+SELECT
+  users.uuid
+FROM public.users
+WHERE 
+  users.cognito_user_id = %(cognito_user_id)s
+LIMIT 1 {'cognito_user_id': '8109954e-1c23-45a0-a385-393277601495'}
+UUID: 0d924455-6ec6-4cdd-90f2-aa3a1e49751d
+query-params: {'TableName': 'cruddur-messages', 'KeyConditionExpression': 'pk = :pk AND begins_with(sk,:year)', 'ScanIndexForward': False, 'Limit': 20, 'ExpressionAttributeValues': {':year': {'S': '2023'}, ':pk': {'S': 'GRP#0d924455-6ec6-4cdd-90f2-aa3a1e49751d'}}}
+{'TableName': 'cruddur-messages', 'KeyConditionExpression': 'pk = :pk AND begins_with(sk,:year)', 'ScanIndexForward': False, 'Limit': 20, 'ExpressionAttributeValues': {':year': {'S': '2023'}, ':pk': {'S': 'GRP#0d924455-6ec6-4cdd-90f2-aa3a1e49751d'}}}
+list_message_groups: [{'uuid': '5ae290ed-55d1-47a0-bc6d-fe2bc2700399', 'display_name': 'orcy', 'handle': 'orcy', 'message': 'this is a filler message', 'created_at': '2023-04-02T23:37:15.907933+00:00'}]
+
+
+ Load SQL Template: /backend-flask/db/sql/users/uuid_from_cognito_user_id.sql 
+ SQL STATEMENT-[value]------
+SELECT
+  users.uuid
+FROM public.users
+WHERE 
+  users.cognito_user_id = %(cognito_user_id)s
+192.168.249.73 - - [03/Apr/2023 00:13:48] "GET /api/messages/5ae290ed-55d1-47a0-bc6d-fe2bc2700399 HTTP/1.1" 200 -
+192.168.249.73 - - [03/Apr/2023 00:13:54] "OPTIONS /api/messages HTTP/1.1" 200 -
+authenicated
+{'sub': '8109954e-1c23-45a0-a385-393277601495', 'iss': 'https://cognito-idp.us-east-1.amazonaws.com/us-east-1_p2LQ52ArJ', 'client_id': '245m80kue8q0rilt4nr4gtthdb', 'origin_jti': '9ed69cef-8d75-4ba4-9b0f-6d54b10ab5e6', 'event_id': 'eb0d69af-5ed6-44db-a9b5-26fac62e877c', 'token_use': 'access', 'scope': 'aws.cognito.signin.user.admin', 'auth_time': 1680478654, 'exp': 1680482254, 'iat': 1680478654, 'jti': 'c04ccf69-e487-4369-9899-615f7e5590cc', 'username': '8109954e-1c23-45a0-a385-393277601495'}
+192.168.249.73 - - [03/Apr/2023 00:13:54] "POST /api/messages HTTP/1.1" 200 -
+192.168.249.73 - - [03/Apr/2023 00:13:54] "OPTIONS /api/messages/5ae290ed-55d1-47a0-bc6d-fe2bc2700399 HTTP/1.1" 200 -
+192.168.249.73 - - [03/Apr/2023 00:13:54] "OPTIONS /api/message_groups HTTP/1.1" 200 -
+authenicated
+{'sub': '8109954e-1c23-45a0-a385-393277601495', 'iss': 'https://cognito-idp.us-east-1.amazonaws.com/us-east-1_p2LQ52ArJ', 'client_id': '245m80kue8q0rilt4nr4gtthdb', 'origin_jti': '9ed69cef-8d75-4ba4-9b0f-6d54b10ab5e6', 'event_id': 'eb0d69af-5ed6-44db-a9b5-26fac62e877c', 'token_use': 'access', 'scope': 'aws.cognito.signin.user.admin', 'auth_time': 1680478654, 'exp': 1680482254, 'iat': 1680478654, 'jti': 'c04ccf69-e487-4369-9899-615f7e5590cc', 'username': '8109954e-1c23-45a0-a385-393277601495'}
+LIMIT 1 {'cognito_user_id': '8109954e-1c23-45a0-a385-393277601495'}
+UUID: 0d924455-6ec6-4cdd-90f2-aa3a1e49751d
+list_messages
+[{'uuid': '3c9c7bcd-5666-4b4a-9a80-976a1bbcf263', 'display_name': 'Amr', 'handle': 'amrmohie', 'message': "One thing that really stands out about Babylon 5 is the quality of the special effects. What did you think about the show's use of CGI and other visual effects?", 'created_at': '2023-04-03T01:01:15.907933+00:00'}, {'uuid': '2e506dea-4e01-4e6a-bdd3-83db1ec1c33c', 'display_name': 'orcy', 'handle': 'orcy', 'message': 'I thought the special effects in Babylon 5 were really impressive, especially for a show that aired in the 90s. The use of CGI to create the spaceships and other sci-fi elements was really innovative for its time.', 'created_at': '2023-04-03T01:02:15.907933+00:00'}, {'uuid': '04525d5e-892c-459e-ae9f-5958dcfa4095', 'display_name': 'Amr', 'handle': 'amrmohie', 'message': 'Yes, I was really blown away by the level of detail and realism in the effects. The ships looked so sleek and futuristic, and the space battles were really intense and exciting.', 'created_at': '2023-04-03T01:03:15.907933+00:00'}, {'uuid': 'd2440e41-214f-4e1c-a4bf-9eabf5637c50', 'display_name': 'orcy', 'handle': 'orcy', 'message': 'And I also appreciated the way the show integrated the visual effects with the live-action footage. It never felt like the effects were taking over or overshadowing the characters or the story.', 'created_at': '2023-04-03T01:04:15.907933+00:00'}, {'uuid': 'b30fb899-a32f-4889-8559-02276fb0da20', 'display_name': 'Amr', 'handle': 'amrmohie', 'message': 'Absolutely. The show had a great balance of practical effects and CGI, which helped to ground the sci-fi elements in a more tangible and realistic world.', 'created_at': '2023-04-03T01:05:15.907933+00:00'}, {'uuid': '953d4943-c843-45bd-992b-b9249053168d', 'display_name': 'orcy', 'handle': 'orcy', 'message': "And it's also worth noting the way the show's use of visual effects evolved over the course of the series. The effects in the first season were a bit rough around the edges, but by the end of the series, they had really refined and perfected the look and feel of the show.", 'created_at': '2023-04-03T01:06:15.907933+00:00'}, {'uuid': 'a76a846e-178c-460f-be49-14e6855aa29e', 'display_name': 'Amr', 'handle': 'amrmohie', 'message': "Yes, I agree. And it's impressive how they were able to accomplish all of this on a TV budget. The fact that the show was able to create such a rich and immersive sci-fi universe with limited resources is a testament to the talent and creativity of the production team.", 'created_at': '2023-04-03T01:07:15.907933+00:00'}, {'uuid': 'eb39cd04-6de2-42d4-a0c0-6665026823b3', 'display_name': 'orcy', 'handle': 'orcy', 'message': "Definitely. And it's one of the reasons why the show has aged so well. Even today, the visual effects still hold up and look impressive, which is a rarity for a show that's almost 30 years old.", 'created_at': '2023-04-03T01:08:15.907933+00:00'}, {'uuid': '32419808-46f4-436d-8899-e846dc45de3a', 'display_name': 'Amr', 'handle': 'amrmohie', 'message': "Agreed. And it's also worth noting the way the show's use of visual effects influenced other sci-fi shows that came after it. Babylon 5 really set the bar for what was possible in terms of sci-fi visuals on TV.", 'created_at': '2023-04-03T01:09:15.907933+00:00'}, {'uuid': 'c6831004-6dae-49b3-96c3-b42cf91425a7', 'display_name': 'orcy', 'handle': 'orcy', 'message': "Yes, it definitely had a big impact on the genre as a whole. And it's a great example of how innovative and groundbreaking sci-fi can be when it's done right.", 'created_at': '2023-04-03T01:10:15.907933+00:00'}, {'uuid': '667c0373-dfbb-42f6-bfa9-eaa97dfc6c5c', 'display_name': 'Amr', 'handle': 'amrmohie', 'message': 'Another character I wanted to discuss is Zathras. What did you think of his character?', 'created_at': '2023-04-03T01:11:15.907933+00:00'}, {'uuid': '17761f78-1102-4067-8cd4-846ff49ad4b3', 'display_name': 'orcy', 'handle': 'orcy', 'message': 'Zathras was a really unique and memorable character. He was quirky and eccentric, but also had a lot of heart and sincerity.', 'created_at': '2023-04-03T01:12:15.907933+00:00'}, {'uuid': '5714d354-f72e-45f2-8141-1030f099df94', 'display_name': 'Amr', 'handle': 'amrmohie', 'message': 'Yes, I thought he was a great addition to the show. He added some much-needed comic relief, but also had some important moments of character development.', 'created_at': '2023-04-03T01:13:15.907933+00:00'}, {'uuid': '529c9133-fe1b-4ce0-9881-888f24f5392f', 'display_name': 'orcy', 'handle': 'orcy', 'message': "And I appreciated the way the show used him as a sort of plot device, with his knowledge of time and space being instrumental in the resolution of some of the show's major storylines.", 'created_at': '2023-04-03T01:14:15.907933+00:00'}, {'uuid': '6645dc22-6369-4aa1-97eb-bec735c9cf55', 'display_name': 'Amr', 'handle': 'amrmohie', 'message': 'Definitely. It was a great way to integrate a seemingly minor character into the larger narrative. And it was also interesting to see the different versions of Zathras from different points in time.', 'created_at': '2023-04-03T01:15:15.907933+00:00'}, {'uuid': 'cc7c7b24-b2c3-41ca-8cac-19f5bb3b49c3', 'display_name': 'orcy', 'handle': 'orcy', 'message': 'Yeah, that was a clever storytelling device that really added to the sci-fi elements of the show. And it was also a great showcase for actor Tim Choate, who played the character with so much charm and energy.', 'created_at': '2023-04-03T01:16:15.907933+00:00'}, {'uuid': 'ddcabe3a-c5d5-4269-a7f5-620856f47074', 'display_name': 'Amr', 'handle': 'amrmohie', 'message': "I also thought that Zathras was a great example of the show's commitment to creating memorable and unique characters. Even characters that only appeared in a few episodes, like Zathras or Bester, were given distinct personalities and backstories.", 'created_at': '2023-04-03T01:17:15.907933+00:00'}, {'uuid': '274e8b1b-9233-4694-b3b4-a4eb8c7d52e3', 'display_name': 'orcy', 'handle': 'orcy', 'message': "Yes, that's a good point. Babylon 5 was really great at creating a diverse and interesting cast of characters, with each one feeling like a fully-realized and distinct individual.", 'created_at': '2023-04-03T01:18:15.907933+00:00'}, {'uuid': 'de9a31c9-0ff1-4c5c-84e7-166310919de4', 'display_name': 'Amr', 'handle': 'amrmohie', 'message': "And Zathras was just one example of that. He was a small but important part of the show's legacy, and he's still remembered fondly by fans today.", 'created_at': '2023-04-03T01:19:15.907933+00:00'}, {'uuid': '73c5a34a-d554-44ee-acc0-4a27d8b52cd2', 'display_name': 'orcy', 'handle': 'orcy', 'message': "Definitely. I think his character is a great example of the show's ability to balance humor and heart, and to create memorable and beloved characters that fans will cherish for years to come.", 'created_at': '2023-04-03T01:20:15.907933+00:00'}]
+
+
+ Load SQL Template: /backend-flask/db/sql/users/create_message_users.sql 
+ SQL STATEMENT-[array]------
+SELECT 
+  users.uuid,
+  users.display_name,
+  users.handle,
+  CASE users.cognito_user_id = %(cognito_user_id)s
+  WHEN TRUE THEN
+    'sender'
+  WHEN FALSE THEN
+    'recv'
+  ELSE
+    'other'
+  END as kind
+FROM public.users
+WHERE
+  users.cognito_user_id = %(cognito_user_id)s
+  OR 
+  users.handle = %(user_receiver_handle)s
+ {'cognito_user_id': '8109954e-1c23-45a0-a385-393277601495', 'user_receiver_handle': ''}
+USERS =-=-=-=-==
+[{'uuid': '0d924455-6ec6-4cdd-90f2-aa3a1e49751d', 'display_name': 'Amr', 'handle': 'amrmohie', 'kind': 'sender'}]
+USERS=[my-user]==
+{'uuid': '0d924455-6ec6-4cdd-90f2-aa3a1e49751d', 'display_name': 'Amr', 'handle': 'amrmohie', 'kind': 'sender'}
+USERS=[other-user]==
+None
+{'ResponseMetadata': {'RequestId': 'a4c434f7-71fd-4e18-a4a3-188153bb60ad', 'HTTPStatusCode': 200, 'HTTPHeaders': {'date': 'Mon, 03 Apr 2023 00:13:54 GMT', 'x-amzn-requestid': 'a4c434f7-71fd-4e18-a4a3-188153bb60ad', 'content-type': 'application/x-amz-json-1.0', 'x-amz-crc32': '2745614147', 'content-length': '2', 'server': 'Jetty(9.4.48.v20220622)'}, 'RetryAttempts': 0}}
+
+authenicated
+{'sub': '8109954e-1c23-45a0-a385-393277601495', 'iss': 'https://cognito-idp.us-east-1.amazonaws.com/us-east-1_p2LQ52ArJ', 'client_id': '245m80kue8q0rilt4nr4gtthdb', 'origin_jti': '9ed69cef-8d75-4ba4-9b0f-6d54b10ab5e6', 'event_id': 'eb0d69af-5ed6-44db-a9b5-26fac62e877c', 'token_use': 'access', 'scope': 'aws.cognito.signin.user.admin', 'auth_time': 1680478654, 'exp': 1680482254, 'iat': 1680478654, 'jti': 'c04ccf69-e487-4369-9899-615f7e5590cc', 'username': '8109954e-1c23-45a0-a385-393277601495'}
+192.168.249.73 - - [03/Apr/2023 00:13:54] "GET /api/message_groups HTTP/1.1" 200 -
+192.168.249.73 - - [03/Apr/2023 00:13:54] "GET /api/messages/5ae290ed-55d1-47a0-bc6d-fe2bc2700399 HTTP/1.1" 200 -
