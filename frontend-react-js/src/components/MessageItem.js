@@ -1,8 +1,10 @@
+// MessageItem.js
 import './MessageItem.css';
 import { Link } from "react-router-dom";
 import { DateTime } from 'luxon';
+import React from "react";
 
-export default function MessageItem(props) {
+const MessageItem = React.forwardRef(({ message }, ref) => {
 
   const format_time_created_at = (value) => {
     // format: 2050-11-20 18:32:47 +0000
@@ -21,20 +23,22 @@ export default function MessageItem(props) {
   };
 
   return (
-    <Link className='message_item' to={`/messages/@`+props.message.handle}>
+    <Link ref={ref} className='message_item' to={`/messages/@`+message.handle}>
       <div className='message_avatar'></div>
       <div className='message_content'>
         <div classsName='message_meta'>
           <div className='message_identity'>
-            <div className='display_name'>{props.message.display_name}</div>
-            <div className="handle">@{props.message.handle}</div>
+            <div className='display_name'>{message.display_name}</div>
+            <div className="handle">@{message.handle}</div>
           </div>{/* activity_identity */}
         </div>{/* message_meta */}
-        <div className="message">{props.message.message}</div>
-        <div className="created_at" title={props.message.created_at}>
-          <span className='ago'>{format_time_created_at(props.message.created_at)}</span> 
+        <div className="message">{message.message}</div>
+        <div className="created_at" title={message.created_at}>
+          <span className='ago'>{format_time_created_at(message.created_at)}</span> 
         </div>{/* created_at */}
       </div>{/* message_content */}
     </Link>
   );
-}
+});
+
+export default MessageItem;
