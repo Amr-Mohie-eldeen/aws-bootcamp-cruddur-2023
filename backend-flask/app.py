@@ -125,7 +125,9 @@ def data_message_groups():
         if model['errors'] is not None:
          return model['errors'], 422
         else:
-          return model['data'], 200
+            app.logger.debug(cognito_user_id)
+            app.logger.debug(model['data'])
+            return model['data'], 200
     except TokenVerifyError as e:
         # unauthenicatied request
         app.logger.debug(e)
@@ -148,7 +150,9 @@ def data_messages(message_group_uuid):
     if model['errors'] is not None:
       return model['errors'], 422
     else:
-      return model['data'], 200
+        app.logger.debug("Message Group")
+        app.logger.debug(model['data'])
+        return model['data'], 200
   except TokenVerifyError as e:
     # unauthenicatied request
     app.logger.debug(e)
