@@ -2,7 +2,12 @@ from datetime import datetime, timedelta, timezone
 
 from lib.db import db
 from lib.ddb import Ddb
-
+import logging
+logger = logging.getLogger(__name__)
+logger.setLevel(logging.DEBUG)
+console_handler = logging.StreamHandler()
+# cw_handler = watchtower.CloudWatchLogHandler(log_group='cruddur')
+logger.addHandler(console_handler)
 class CreateMessage:
   # mode indicates if we want to create a new message_group or using an existing one
   def run(mode, message, cognito_user_id, message_group_uuid=None, user_receiver_handle=None):
@@ -46,19 +51,22 @@ class CreateMessage:
         'cognito_user_id': cognito_user_id,
         'user_receiver_handle': rev_handle
       })
-      print("USERS =-=-=-=-==")
-      print(users)
+      logger.debug("USERS =-=-=-=-==")
+      logger.debug(users)
 
       my_user    = next((item for item in users if item["kind"] == 'sender'), None)
       other_user = next((item for item in users if item["kind"] == 'recv')  , None)
 
-      print("USERS=[my-user]==")
-      print(my_user)
-      print("USERS=[other-user]==")
-      print(other_user)
+      logger.debug("USERS=[my-user]==")
+      logger.debug(my_user)
+      logger.debug("USERS=[other-user]==")
+      logger.debug(other_user)
 
       ddb = Ddb.client()
+      log_msg = f"Message sent to message_group_uuid={message_group_uuid} by {my_user['display_name']} ({my_user['handle']}): {message}"
 
+# log message
+      logger.debug(log_msg)
       if (mode == "update"):
         data = Ddb.create_message(
           client=ddb,

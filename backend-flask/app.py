@@ -185,7 +185,12 @@ def data_create_message():
     # authenicatied request
     app.logger.debug("authenicated")
     app.logger.debug(claims)
+    app.logger.debug("Post message parameters")
+    app.logger.debug(message)
+    app.logger.debug(message_group_uuid)
+    app.logger.debug(user_receiver_handle)
     cognito_user_id = claims['sub']
+    app.logger.debug(cognito_user_id)
     if message_group_uuid == None:
       # Create for the first time
       model = CreateMessage.run(
