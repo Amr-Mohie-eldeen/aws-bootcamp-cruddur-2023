@@ -1,0 +1,2 @@
+#! /usr/bin/bash
+aws ecs list-services --cluster cruddur --output text | awk '{print $2}' | xargs -I {} aws ecs update-service --cluster cruddur --service {} --desired-count 1
