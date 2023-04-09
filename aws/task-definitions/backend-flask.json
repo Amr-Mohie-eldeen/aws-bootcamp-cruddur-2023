@@ -20,7 +20,15 @@
             "containerPort": 2000,
             "protocol": "udp"
           }
-        ]
+        ],
+        "logConfiguration": {
+          "logDriver": "awslogs",
+          "options": {
+              "awslogs-group": "cruddur",
+              "awslogs-region": "us-east-1",
+              "awslogs-stream-prefix": "xray"
+          }}
+        
       },
       {
         "name": "backend-flask",
@@ -61,7 +69,10 @@
           {"name": "AWS_COGNITO_USER_POOL_CLIENT_ID", "value": "245m80kue8q0rilt4nr4gtthdb"},
           {"name": "FRONTEND_URL", "value": "https://amrmohie.cloud"},
           {"name": "BACKEND_URL", "value": "https://api.amrmohie.cloud"},
-          {"name": "AWS_DEFAULT_REGION", "value": "us-east-1"}
+          {"name": "AWS_DEFAULT_REGION", "value": "us-east-1"},
+          {"name": "AWS_XRAY_DAEMON_ADDRESS", "value": "172.0.0.1:2000"}
+
+
         ],
         "secrets": [
           {"name": "AWS_ACCESS_KEY_ID"    , "valueFrom": "arn:aws:ssm:us-east-1:771456714234:parameter/cruddur/backend-flask/AWS_ACCESS_KEY_ID"},
