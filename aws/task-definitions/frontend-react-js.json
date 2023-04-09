@@ -16,7 +16,6 @@
         "user": "1337",
         "portMappings": [
           {
-            "name": "xray",
             "containerPort": 2000,
             "protocol": "udp"
           }
