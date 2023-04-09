@@ -59,8 +59,8 @@ provider.add_span_processor(processor)
 
 # X-RAY ----------
 
-xray_recorder.configure(service='backend-flask', dynamic_naming='api.amrmohie.cloud*')
-
+# xray_recorder.configure(service='backend-flask', dynamic_naming='api.amrmohie.cloud*')
+# XRayMiddleware(app, xray_recorder)
 # OTEL ----------
 # Show this in the logs within the backend-flask app (STDOUT)
 #simple_processor = SimpleSpanProcessor(ConsoleSpanExporter())
@@ -78,7 +78,7 @@ cognito_jwt_token = CognitoJwtToken(
 )
 
 # X-RAY ----------
-XRayMiddleware(app, xray_recorder)
+
 
 # HoneyComb ---------
 # Initialize automatic instrumentation with Flask
@@ -218,7 +218,7 @@ def data_create_message():
 
 
 @app.route("/api/activities/home", methods=['GET'])
-@xray_recorder.capture('activities_home')
+# @xray_recorder.capture('activities_home')
 def data_home():
   access_token = extract_access_token(request.headers)
   try:
@@ -241,7 +241,7 @@ def data_notifications():
   return data, 200
 
 @app.route("/api/activities/@<string:handle>", methods=['GET'])
-@xray_recorder.capture('activities_users')
+# @xray_recorder.capture('activities_users')
 def data_handle(handle):
   model = UserActivities.run(handle)
   if model['errors'] is not None:
@@ -273,7 +273,7 @@ def data_activities():
   return
 
 @app.route("/api/activities/<string:activity_uuid>", methods=['GET'])
-@xray_recorder.capture('activities_show')
+# @xray_recorder.capture('activities_show')
 def data_show_activity(activity_uuid):
   data = ShowActivity.run(activity_uuid=activity_uuid)
   return data, 200

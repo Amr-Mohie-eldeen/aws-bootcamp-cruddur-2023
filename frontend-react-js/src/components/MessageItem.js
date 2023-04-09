@@ -1,44 +1,23 @@
-// MessageItem.js
 import './MessageItem.css';
 import { Link } from "react-router-dom";
-import { DateTime } from 'luxon';
-import React from "react";
+import { format_datetime, message_time_ago } from '../lib/DateTimeFormats';
 
-const MessageItem = React.forwardRef(({ message }, ref) => {
-
-  const format_time_created_at = (value) => {
-    // format: 2050-11-20 18:32:47 +0000
-    const created = DateTime.fromISO(value)
-    const now     = DateTime.now()
-    const diff_mins = now.diff(created, 'minutes').toObject().minutes;
-    const diff_hours = now.diff(created, 'hours').toObject().hours;
-
-    if (diff_hours > 24.0){
-      return created.toFormat("LLL L");
-    } else if (diff_hours < 24.0 && diff_hours > 1.0) {
-      return `${Math.floor(diff_hours)}h`;
-    } else if (diff_hours < 1.0) {
-      return `${Math.round(diff_mins)}m`;
-    }
-  };
-
+export default function MessageItem(props) {
   return (
-    <Link ref={ref} className='message_item' to={`/messages/@`+message.handle}>
-      <div className='message_avatar'></div>
+    <div className='message_item'>
+      <Link className='message_avatar' to={`/messages/@`+props.message.handle}></Link>
       <div className='message_content'>
         <div classsName='message_meta'>
           <div className='message_identity'>
-            <div className='display_name'>{message.display_name}</div>
-            <div className="handle">@{message.handle}</div>
+            <div className='display_name'>{props.message.display_name}</div>
+            <div className="handle">@{props.message.handle}</div>
           </div>{/* activity_identity */}
         </div>{/* message_meta */}
-        <div className="message">{message.message}</div>
-        <div className="created_at" title={message.created_at}>
-          <span className='ago'>{format_time_created_at(message.created_at)}</span> 
+        <div className="message">{props.message.message}</div>
+        <div className="created_at" title={format_datetime(props.message.created_at)}>
+          <span className='ago'>{message_time_ago(props.message.created_at)}</span> 
         </div>{/* created_at */}
       </div>{/* message_content */}
-    </Link>
+    </div>
   );
-});
-
-export default MessageItem;
+}
