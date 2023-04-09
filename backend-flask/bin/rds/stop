@@ -1,0 +1,2 @@
+#! /usr/bin/bash
+aws rds stop-db-instance --db-instance-identifier cruddur-db-instance --region us-east-1
