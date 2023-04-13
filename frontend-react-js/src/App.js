@@ -11,6 +11,7 @@ import ConfirmationPage from './pages/ConfirmationPage';
 import MessageGroupNewPage from './pages/MessageGroupNewPage';
 import React from 'react';
 import NotificationsFeedPage from './pages/NotificationsFeedPage';
+import './components/Popup.css';
 import { Amplify } from 'aws-amplify';
 
 import {
