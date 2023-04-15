@@ -3,6 +3,8 @@ import {ReactComponent as Logo} from './svg/logo.svg';
 import DesktopNavigationLink from '../components/DesktopNavigationLink';
 import CrudButton from '../components/CrudButton';
 import ProfileInfo from '../components/ProfileInfo';
+import { useRef } from 'react';
+import { useReducer } from 'react';
 
 export default function DesktopNavigation(props) {
 
@@ -25,7 +27,9 @@ export default function DesktopNavigation(props) {
       handle="messages" 
       active={props.active} />
     profileLink = <DesktopNavigationLink 
-      url="/@amrmohie" 
+      // url={`/@${user}`}
+
+      url={`/@${props.user.handle}`}
       name="Profile"
       handle="profile"
       active={props.active} />
