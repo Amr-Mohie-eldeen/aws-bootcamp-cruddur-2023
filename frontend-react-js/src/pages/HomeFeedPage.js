@@ -19,6 +19,8 @@ export default function HomeFeedPage() {
   const [replyActivity, setReplyActivity] = React.useState({});
   const [user, setUser] = React.useState(null);
   const dataFetchedRef = React.useRef(false);
+  console.log('HOMEFEED PROPS')
+  console.log(user)
 
 
   const loadData = async () => {
@@ -71,17 +73,21 @@ export default function HomeFeedPage() {
           setPopped={setPoppedReply} 
           setActivities={setActivities} 
           activities={activities} 
+          user={user}
         />
-        <div className='activity_feed'>
-          <div className='activity_feed_heading'>
-            <div className='title'>Home</div>
-          </div>
-          <ActivityFeed 
-            setReplyActivity={setReplyActivity} 
-            setPopped={setPoppedReply} 
-            activities={activities} 
-          />
+      <div className='activity_feed'>
+        <div className='activity_feed_heading'>
+          <div className='title'>Home</div>
         </div>
+        {user && (
+          <ActivityFeed
+            setReplyActivity={setReplyActivity}
+            setPopped={setPoppedReply}
+            activities={activities}
+            user={user}
+          />
+        )}
+      </div>
       </div>
       <DesktopSidebar user={user} />
     </article>
