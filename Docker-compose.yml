@@ -17,7 +17,7 @@ services:
       AWS_COGNITO_USER_POOL_CLIENT_ID: "245m80kue8q0rilt4nr4gtthdb"
       CONNECTION_URL: "postgresql://postgres:password@db:5432/cruddur" #LOCAL
       # CONNECTION_URL: "${PROD_CONNECTION_URL}"
-      # AWS_ENDPOINT_URL: "http://dynamodb-local:8000"    # Local DYnamoDB
+      AWS_ENDPOINT_URL: "http://dynamodb-local:8000"    # Local DYnamoDB
 
 
     build: ./backend-flask
@@ -48,18 +48,18 @@ services:
       - '5432:5432'
     volumes:
       - db:/var/lib/postgresql/data
-  # dynamodb-local:
-  #   # https://stackoverflow.com/questions/67533058/persist-local-dynamodb-data-in-volumes-lack-permission-unable-to-open-databa
-  #   # We needed to add user:root to get this working.
-  #   user: root
-  #   command: "-jar DynamoDBLocal.jar -sharedDb -dbPath ./data"
-  #   image: "amazon/dynamodb-local:latest"
-  #   container_name: dynamodb-local
-  #   ports:
-  #     - "8000:8000"
-  #   volumes:
-  #     - "./docker/dynamodb:/home/dynamodblocal/data"
-  #   working_dir: /home/dynamodblocal
+  dynamodb-local:
+    # https://stackoverflow.com/questions/67533058/persist-local-dynamodb-data-in-volumes-lack-permission-unable-to-open-databa
+    # We needed to add user:root to get this working.
+    user: root
+    command: "-jar DynamoDBLocal.jar -sharedDb -dbPath ./data"
+    image: "amazon/dynamodb-local:latest"
+    container_name: dynamodb-local
+    ports:
+      - "8000:8000"
+    volumes:
+      - "./docker/dynamodb:/home/dynamodblocal/data"
+    working_dir: /home/dynamodblocal
 
   xray-daemon:
     image: "amazon/aws-xray-daemon"

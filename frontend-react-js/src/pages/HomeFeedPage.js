@@ -1,11 +1,11 @@
 import './HomeFeedPage.css';
 import React from "react";
 import { Auth } from 'aws-amplify';
-import DesktopNavigation  from '../components/DesktopNavigation';
-import DesktopSidebar     from '../components/DesktopSidebar';
-import ActivityFeed from '../components/ActivityFeed';
-import ActivityForm from '../components/ActivityForm';
-import ReplyForm from '../components/ReplyForm';
+import DesktopNavigation  from 'components/DesktopNavigation';
+import DesktopSidebar     from 'components/DesktopSidebar';
+import ActivityFeed from 'components/ActivityFeed';
+import ActivityForm from 'components/ActivityForm';
+import ReplyForm from 'components/ReplyForm';
 
 // [TODO] Authenication
 
@@ -72,12 +72,16 @@ export default function HomeFeedPage() {
           setActivities={setActivities} 
           activities={activities} 
         />
-        <ActivityFeed 
-          title="Home" 
-          setReplyActivity={setReplyActivity} 
-          setPopped={setPoppedReply} 
-          activities={activities} 
-        />
+        <div className='activity_feed'>
+          <div className='activity_feed_heading'>
+            <div className='title'>Home</div>
+          </div>
+          <ActivityFeed 
+            setReplyActivity={setReplyActivity} 
+            setPopped={setPoppedReply} 
+            activities={activities} 
+          />
+        </div>
       </div>
       <DesktopSidebar user={user} />
     </article>
