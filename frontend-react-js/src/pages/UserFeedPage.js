@@ -2,14 +2,15 @@ import './UserFeedPage.css';
 import React from "react";
 import { useParams } from 'react-router-dom';
 
-import DesktopNavigation  from 'components/DesktopNavigation';
-import DesktopSidebar     from 'components/DesktopSidebar';
-import ActivityFeed from 'components/ActivityFeed';
-import ActivityForm from 'components/ActivityForm';
-import ProfileHeading from 'components/ProfileHeading';
-import ProfileForm from 'components/ProfileForm';
-// [TODO] Authenication
-import {checkAuth, getAccessToken} from 'lib/CheckAuth';
+import DesktopNavigation  from '../components/DesktopNavigation';
+import DesktopSidebar     from '../components/DesktopSidebar';
+import ActivityFeed from '../components/ActivityFeed';
+import ActivityForm from '../components/ActivityForm';
+import ProfileHeading from '../components/ProfileHeading';
+import ProfileForm from '../components/ProfileForm';
+
+
+import {checkAuth, getAccessToken} from '../lib/CheckAuth';
 
 export default function UserFeedPage() {
   const [activities, setActivities] = React.useState([]);
