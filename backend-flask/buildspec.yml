@@ -30,6 +30,19 @@ env:
     CONTAINER_NAME: backend-flask
     IMAGE_URL: 771456714234.dkr.ecr.us-east-1.amazonaws.com
     REPO_NAME: backend-flask:latest
+    OTEL_SERVICE_NAME: backend-flask
+    OTEL_EXPORTER_OTLP_ENDPOINT: https://api.honeycomb.io
+    AWS_COGNITO_USER_POOL_ID: us-east-1_p2LQ52ArJ
+    AWS_COGNITO_USER_POOL_CLIENT_ID: 245m80kue8q0rilt4nr4gtthdb
+    FRONTEND_URL: https://amrmohie.cloud
+    BACKEND_URL: https://api.amrmohie.cloud
+
+  parameter-store:
+    AWS_ACCESS_KEY_ID: /cruddur/backend-flask/AWS_ACCESS_KEY_ID
+    AWS_SECRET_ACCESS_KEY: /cruddur/backend-flask/AWS_SECRET_ACCESS_KEY
+    CONNECTION_URL: /cruddur/backend-flask/CONNECTION_URL
+    ROLLBAR_ACCESS_TOKEN: /cruddur/backend-flask/ROLLBAR_ACCESS_TOKEN
+    OTEL_EXPORTER_OTLP_HEADERS: /cruddur/backend-flask/OTEL_EXPORTER_OTLP_HEADERS
 
 artifacts:
   files:
