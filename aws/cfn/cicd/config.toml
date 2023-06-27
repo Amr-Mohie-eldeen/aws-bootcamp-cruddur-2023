@@ -1,0 +1,12 @@
+[deploy]
+bucket = 'cfn-artifacts-amr-amr'
+region = 'us-east-1'
+stack_name = 'CrdCicd'
+
+[parameters]
+ServiceStack = 'CrdSrvBackendFlask'
+ClusterStack = 'CrdCluster'
+GitHubBranch = 'prod'
+GithubRepo = 'Amr-Mohie-eldeen/aws-bootcamp-cruddur-2023'
+ArtifactBucketName = "codepipeline-us-east-1-850584350239"
+BuildSpec = 'backend-flask/buildspec.yml'
