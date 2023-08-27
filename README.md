@@ -4,7 +4,7 @@
 - Cohort: 2023-A1
 
 ### Solution Architecture
-![Logical Design](_assets/Crudder_Logical_Diagram.jpg)
+![Logical Design](journal/_assets/Crudder_Logical_Diagram.jpg)
 
 ![Cruddur Graphic](_docs/assets/cruddur-banner.jpg)
 
